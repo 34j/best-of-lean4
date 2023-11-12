@@ -133,8 +133,12 @@ projects:
     github_id: madvorak/lean3-tactic-lean4
     description: Reference sheet for people who know Lean 3 and want to write tactic-based proofs in Lean 4
     labels: [lean3]
-  - name: The Lean Reference Manual
+  - name: "`#help`` command output"
     category: cheatsheet
+    homepage: https://live.lean-lang.org/#code=import%20Mathlib.Tactic%0D%0A%0D%0A%23help%20option%0D%0A%23help%20attr%0D%0A%23help%20cats%0D%0A%23help%20term%0D%0A%23help%20tactic%0D%0A%23help%20conv%0D%0A%23help%20command%0D%0A
+    description: "Output of `#help option`, `#help attr`, ... shown in `Lean 4 Web`"
+  - name: The Lean Reference Manual
+    category: tutorial
     homepage: https://lean-lang.org/reference/index.html
     description: Official Lean 3 Reference Manual
     labels: [lean3]
