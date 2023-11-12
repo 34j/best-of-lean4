@@ -6,8 +6,8 @@ configuration:
   require_license: False
 
 categories:
-  - category: cheetsheet
-    title: Cheetsheets
+  - category: cheatsheet
+    title: Cheatsheets
     subtitle: Quick reference with short text
   - category: tutorial
     title: Tutorials
@@ -42,6 +42,8 @@ labels:
     description: "Written in simplified Chinese"
   - label: "zh_HANT"
     description: "Written in traditional Chinese"
+  - label: "lean3"
+    description: Lean 3 project that was unavoidably listed because there are few Lean 4 equivalents or for other reasons.
 
 projects:
   # core
@@ -93,28 +95,37 @@ projects:
     category: game
     description: Mainly for Natural Number Game. Be careful not to confuse this with the [Lean 3 version](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/).
     homepage: https://adam.math.hhu.de/
-  # cheetsheet
+  # cheatsheet
   - name: (Mathlib4) General Documentation (API Reference)
-    category: cheetsheet
+    category: cheatsheet
     github_id: leanprover-community/mathlib4_docs
     homepage: https://leanprover-community.github.io/mathlib4_docs/
-  - name: Lean 4 Cheetsheet
-    category: cheetsheet
+  - name: Lean 4 Cheatsheet
+    category: cheatsheet
     github_id: madvorak/lean4-cheatsheet
     homepage: https://github.com/madvorak/lean4-cheatsheet/blob/main/lean-tactics.pdf
   - name: "Moogle: Semantic search over mathlib4"
-    category: cheetsheet
+    category: cheatsheet
     homepage: https://www.moogle.ai/
     description: Better performance (latency) than `General Documentation`
   - name: Lean 4 Tactics Reverse Lookup List
-    category: cheetsheet
-    homepage: https://lean-ja.github.io/tactic-cheetsheet/
+    category: cheatsheet
+    homepage: https://lean-ja.github.io/tactic-cheatsheet/
     description: Lean 4 Tactics Reverse Lookup List
     labels: [ja]
   - name: A mathlib overview
-    category: cheetsheet
+    category: cheatsheet
     homepage: https://leanprover-community.github.io/mathlib-overview.html
     github_id: leanprover-community/leanprover-community.github.io
+  - name: cs-dm/CheatSheet.lean
+    category: cheatsheet
+    homepage: https://github.com/kevinsullivan/cs-dm/blob/master/CheatSheet.lean
+    github_id: kevinsullivan/cs-dm
+    labels: [lean3]
+  - name: lean3-tactic-lean4
+    github_id: madvorak/lean3-tactic-lean4
+    description: Reference sheet for people who know Lean 3 and want to write tactic-based proofs in Lean 4
+    labels: [lean3]
   # tutorial
   - name: Mathmatics in Lean
     category: "tutorial"
