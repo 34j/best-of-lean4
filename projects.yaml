@@ -100,6 +100,7 @@ projects:
     category: cheatsheet
     github_id: leanprover-community/mathlib4_docs
     homepage: https://leanprover-community.github.io/mathlib4_docs/
+    description: Official Mathlib API Reference.
   - name: Lean 4 Cheatsheet
     category: cheatsheet
     github_id: madvorak/lean4-cheatsheet
@@ -128,6 +129,7 @@ projects:
     labels: [lean3]
   - name: The Lean Reference Manual
     homepage: https://lean-lang.org/reference/index.html
+    description: Official Lean 3 Reference Manual
     labels: [lean3]
   # tutorial
   - name: Mathmatics in Lean
@@ -138,6 +140,7 @@ projects:
   - name: A Lean 4 Metaprogramming Book
     category: tutorial
     github_id: leanprover-community/lean4-metaprogramming-book
+    description: Practical manual with code that goes into the internal concepts of Lean 4
   - name: Functional Programming in Lean
     category: tutorial
     github_id: leanprover/fp-lean
@@ -149,6 +152,7 @@ projects:
   - name: Lean Manual
     category: tutorial
     homepage: https://lean-lang.org/lean4/doc/do.html
+    description: Official Manual.
   - name: Theorem Proving in Lean 4
     category: tutorial
     homepage: https://lean-lang.org/theorem_proving_in_lean4/
@@ -160,6 +164,7 @@ projects:
   - name: Lean Math Workshop
     category: sample
     github_id: yuma-mizuno/lean-math-workshop
+    description: Materials for a workshop held in Japan.
     labels: [ja]
   # community
   - name: Zulip chat for discussions about Lean and mathlib
@@ -174,6 +179,7 @@ projects:
   - name: Links (lean-lang.org)
     category: awesome
     homepage: https://lean-lang.org/links/
+    description: Official collection of links.
   - name: LEAN JA リンク集
     category: awesome
     homepage: https://lean-ja.github.io/links/
@@ -182,7 +188,11 @@ projects:
     description: Japanese translated versions of several tutorials are available. (いくつかのチュートリアルの日本語訳があります。)
   # movie
   - name: lean4 - YouTube
+    category: movie
     homepage: https://www.youtube.com/results?search_query=lean4
+    description: YouTube movies.
   - name: 人気の「Lean」動画 14本 - ニコニコ動画
+    category: movie
     homepage: https://www.nicovideo.jp/tag/Lean
     labels: [ja]
+    description: Niconico movies. Entertaining instructions using TTS software have been uploaded.
