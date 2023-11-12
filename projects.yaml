@@ -32,6 +32,8 @@ categories:
     subtitle: Tools not made in Lean 4
   - category: awesome
     title: Other awesome lists
+  - category: movie
+    title: Movies
 
 labels:
   - label: "ja"
@@ -161,3 +163,9 @@ projects:
     github_id: lean-ja/lean-ja.github.io
     labels: [ja]
     description: Japanese translated versions of several tutorials are available. (いくつかのチュートリアルの日本語訳があります。)
+  # movie
+  - name: lean4 - YouTube
+    homepage: https://www.youtube.com/results?search_query=lean4
+  - name: 人気の「Lean」動画 14本 - ニコニコ動画
+    homepage: https://www.nicovideo.jp/tag/Lean
+    labels: [ja]
