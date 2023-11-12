@@ -156,6 +156,7 @@ projects:
     homepage: https://hrmacbeth.github.io/math2001/
     category: tutorial
     description: Early university level course.
+    github_id: hrmacbeth/math2001
   - name: Lean Manual
     category: tutorial
     homepage: https://lean-lang.org/lean4/doc/do.html
