@@ -1,6 +1,9 @@
 configuration:
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
+  min_stars: 0
+  min_projectrank: 0
+  require_license: False
 
 categories:
   - category: cheetsheet
@@ -27,8 +30,12 @@ categories:
   - category: tool
     title: Tools
     subtitle: Tools not made in Lean 4
+  - category: awesome
+    title: Other awesome lists
 
 labels:
+  - label: "ja"
+    description: "Written in Japanese"
 
 projects:
   # core
@@ -67,27 +74,43 @@ projects:
     description: Visual Studio Code extension.
   - name: lean4web
     category: tool
-    github_id: https://github.com/leanprover-community/lean4web
+    github_id: leanprover-community/lean4web
     description: Web editor
     homepage: https://live.lean-lang.org/
   # game
   - name: Lean Game Server
     github_id: leanprover-community/lean4game
     category: game
-    description: Mainly for Natural Number Game
+    description: Mainly for Natural Number Game. Be careful not to confuse this with the [Lean 3 version](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/).
     homepage: https://adam.math.hhu.de/
   # cheetsheet
-  - name: General Documentation
+  - name: (Mathlib4) General Documentation (API Reference)
     category: cheetsheet
+    github_id: leanprover-community/mathlib4_docs
     homepage: https://leanprover-community.github.io/mathlib4_docs/
   - name: Lean 4 Cheetsheet
     category: cheetsheet
+    github_id: madvorak/lean4-cheatsheet
     homepage: https://github.com/madvorak/lean4-cheatsheet/blob/main/lean-tactics.pdf
+  - name: "Moogle: Semantic search over mathlib4"
+    category: cheetsheet
+    homepage: https://www.moogle.ai/
+    description: Better performance (latency) than `General Documentation`
+  - name: Lean 4 Tactics Reverse Lookup List
+    category: cheetsheet
+    homepage: https://lean-ja.github.io/tactic-cheetsheet/
+    description: Lean 4 Tactics Reverse Lookup List
+    labels: [ja]
+  - name: A mathlib overview
+    category: cheetsheet
+    homepage: https://leanprover-community.github.io/mathlib-overview.html
+    github_id: leanprover-community/leanprover-community.github.io
   # tutorial
   - name: Mathmatics in Lean
     category: "tutorial"
-    github_id: https://github.com/leanprover-community/mathematics_in_lean
+    github_id: leanprover-community/mathematics_in_lean
     homepage: https://leanprover-community.github.io/mathematics_in_lean/
+    description: Note that there are many parts of the documentation at leanprover-community.github.io that have not been updated.
   - name: A Lean 4 Metaprogramming Book
     category: tutorial
     github_id: leanprover-community/lean4-metaprogramming-book
@@ -106,7 +129,24 @@ projects:
     category: tutorial
     homepage: https://lean-lang.org/theorem_proving_in_lean4/
     github_id: leanprover/theorem_proving_in_lean4
+  # samples
+  - name: Lean Math Workshop
+    category: sample
+    github_id: yuma-mizuno/lean-math-workshop
+    labels: [ja]
   # community
-  - name: Lean Zulip
+  - name: Zulip chat for discussions about Lean and mathlib
     category: community
+    description: Official community.
     homepage: https://leanprover.zulipchat.com/
+  - name: Lean 4 Anarchy (Discord)
+    category: community
+    description: Anarchy discord server.
+    homepage: https://discord.com/invite/WZ9bs9UCvx
+  # awesome
+  - name: LEAN JA リンク集
+    category: awesome
+    homepage: https://lean-ja.github.io/links/
+    github_id: lean-ja/lean-ja.github.io
+    labels: [ja]
+    description: Japanese translated versions of several tutorials are available. (いくつかのチュートリアルの日本語訳があります。)
