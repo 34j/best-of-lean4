@@ -1,38 +1,11 @@
+## 📈 Trending Up
+
+_Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
+
+- <b><a href="https://hrmacbeth.github.io/math2001/">The mechanics of proof</a></b> (🥉7 · ⭐ 43 · 📈) - Early university level course. <code>❗Unlicensed</code>
+
 ## ➕ Added Projects
 
 _Projects that were recently added to this best-of list._
 
-- <b><a href="https://github.com/leanprover/lean4">lean4</a></b> (🥇30 · ⭐ 3.2K · ➕) - Lean 4 repository. Includes `Lake`. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/leanprover-community/mathlib4">mathlib4</a></b> (🥈21 · ⭐ 430 · ➕) - Math library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/leanprover/elan">elan</a></b> (🥉19 · ⭐ 220 · ➕) - Version Manager. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/leanprover/vscode-lean4">vscode-lean4</a></b> (🥇18 · ⭐ 96 · ➕) - Visual Studio Code extension. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/leanprover-community/ProofWidgets4">ProofWidgets</a></b> (🥇17 · ⭐ 62 · ➕) - Helper toolkit for creating your own Lean 4 UserWidgets. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://leanprover-community.github.io/mathlib-overview.html">A mathlib overview</a></b> (🥇16 · ⭐ 39 · ➕) - Hosts the website for mathlib and other Lean community.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/Paper-Proof/paperproof">Paperproof</a></b> (🥉15 · ⭐ 210 · ➕) - Theorem proving interface which feels like pen-and-paper proofs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://adam.math.hhu.de/">Lean Game Server</a></b> (🥇15 · ⭐ 38 · ➕) - Mainly for Natural Number Game. Be careful not to.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
-- <b><a href="https://github.com/leanprover-community/lean4-metaprogramming-book">A Lean 4 Metaprogramming Book</a></b> (🥇14 · ⭐ 160 · ➕) - Practical manual with code that goes into the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/leanprover/std4">std4</a></b> (🥉14 · ⭐ 140 · ➕) - Standard Library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/leanprover/doc-gen4">doc-gen4</a></b> (🥉14 · ⭐ 37 · ➕) - Document Generator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/leanprover-community/aesop">aesop</a></b> (🥉13 · ⭐ 97 · ➕) - Proof search tactic (Automated Extensible Search for Obvious Proofs). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://lean-lang.org/theorem_proving_in_lean4/">Theorem Proving in Lean 4</a></b> (🥈11 · ⭐ 110 · ➕) - Theorem Proving in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://live.lean-lang.org/">lean4web</a></b> (🥉11 · ⭐ 32 · ➕) - Web editor. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://lean-lang.org/functional_programming_in_lean/">Functional Programming in Lean</a></b> (🥈9 · ⭐ 50 · ➕) - Functional Programming in Lean. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/yuma-mizuno/lean-math-workshop">Lean Math Workshop</a></b> (🥇9 · ⭐ 46 · 🐣) - Materials for a workshop held in Japan. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>ja</code>
-- <b><a href="https://github.com/eric-wieser/lean-matrix-cookbook">The Matrix Cookbook, using Lean's mathlib</a></b> (🥇9 · ⭐ 29 · ➕) - The matrix cookbook, proved in the Lean theorem prover. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://leanprover-community.github.io/mathematics_in_lean/">Mathmatics in Lean</a></b> (🥉8 · ⭐ 100 · ➕) - Note that there are many parts of the documentation.. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/kevinsullivan/cs-dm/blob/master/CheatSheet.lean">cs-dm/CheatSheet.lean</a></b> (🥈7 · ⭐ 16 · 💀) - CS2012 UVa CS Discrete Math Spring 2018. <code>❗Unlicensed</code> <code>Lean 3</code>
-- <b><a href="https://lean-ja.github.io/tactic-cheetsheet/">Lean 4 Tactics Reverse Lookup List</a></b> (🥈7 · 🐣) - Lean 4 Tactics Reverse Lookup List. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>ja</code>
-- <b><a href="https://lean-ja.github.io/links/">LEAN JA リンク集</a></b> (🥇7 · 🐣) - Japanese translated versions of several tutorials are available. (). <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>ja</code>
-- <b><a href="https://github.com/madvorak/lean4-cheatsheet/blob/main/lean-tactics.pdf">Lean 4 Cheatsheet</a></b> (🥉5 · ⭐ 9 · ➕) - Printable (A4) overview of tactics in Lean 4 for.. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code>
-- <b><a href="https://github.com/madvorak/lean3-tactic-lean4">lean3-tactic-lean4</a></b> (🥉4 · ⭐ 11 · ➕) - Reference sheet for people who know Lean 3 and want.. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code> <code>Lean 3</code>
-- <b><a href="https://leanprover-community.github.io/mathlib4_docs/">(Mathlib4) General Documentation (API Reference)</a></b> (🥉1 · ⭐ 5 · ➕) - Official Mathlib API Reference. <code>❗Unlicensed</code>
-- <b><a href="https://www.moogle.ai/">Moogle: Semantic search over mathlib4</a></b> (🥉1 · ➕) - Better performance (latency) than `General.. <code>❗Unlicensed</code>
-- <b><a href="https://lean-lang.org/reference/index.html">The Lean Reference Manual</a></b> (🥉1 · ➕) - Official Lean 3 Reference Manual. <code>❗Unlicensed</code> <code>Lean 3</code>
-- <b><a href="https://hrmacbeth.github.io/math2001/">The mechanics of proof</a></b> (🥉1 · ➕) - Early university level course. <code>❗Unlicensed</code>
-- <b><a href="https://lean-lang.org/lean4/doc/do.html">Lean Manual</a></b> (🥉1 · ➕) - Official Manual. <code>❗Unlicensed</code>
-- <b><a href="https://leanprover.zulipchat.com/">Zulip chat for discussions about Lean and mathlib</a></b> (🥇1 · ➕) - Official community. <code>❗Unlicensed</code>
-- <b><a href="https://discord.com/invite/WZ9bs9UCvx">Lean 4 Anarchy (Discord)</a></b> (🥇1 · ➕) - Anarchy discord server. <code>❗Unlicensed</code>
-- <b><a href="https://lean-lang.org/links/">Links (lean-lang.org)</a></b> (🥉1 · ➕) - Official collection of links. <code>❗Unlicensed</code>
-- <b><a href="https://proofassistants.stackexchange.com/questions/2305/where-is-the-syntax-of-lean-4-documented">lean4 - Where is the syntax of Lean 4 documented? - Proof Assistants Stack Exchange</a></b> (🥉1 · ➕) - Discussion regarding Lean 4 documentation. <code>❗Unlicensed</code>
-- <b><a href="https://www.youtube.com/results?search_query=lean4">lean4 - YouTube</a></b> (🥇1 · ➕) - YouTube movies. <code>❗Unlicensed</code>
-- <b><a href="https://www.nicovideo.jp/tag/Lean">人気の「Lean」動画 14 本 - ニコニコ動画</a></b> (🥇1 · ➕) - Niconico movies. Entertaining instructions using TTS.. <code>❗Unlicensed</code> <code>ja</code>
+- <b><a href="https://live.lean-lang.org/#code=import%20Mathlib.Tactic%0D%0A%0D%0A%23help%20option%0D%0A%23help%20attr%0D%0A%23help%20cats%0D%0A%23help%20term%0D%0A%23help%20tactic%0D%0A%23help%20conv%0D%0A%23help%20command%0D%0A">` #help`` command output</a></b> (🥉1 · ➕) - Output of  `#help option`, `#help attr`, ... shown in.. <code>❗Unlicensed</code>
