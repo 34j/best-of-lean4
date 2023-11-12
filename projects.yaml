@@ -129,10 +129,12 @@ projects:
     github_id: kevinsullivan/cs-dm
     labels: [lean3]
   - name: lean3-tactic-lean4
+    category: cheatsheet
     github_id: madvorak/lean3-tactic-lean4
     description: Reference sheet for people who know Lean 3 and want to write tactic-based proofs in Lean 4
     labels: [lean3]
   - name: The Lean Reference Manual
+    category: cheatsheet
     homepage: https://lean-lang.org/reference/index.html
     description: Official Lean 3 Reference Manual
     labels: [lean3]
@@ -191,6 +193,10 @@ projects:
     github_id: lean-ja/lean-ja.github.io
     labels: [ja]
     description: Japanese translated versions of several tutorials are available. (いくつかのチュートリアルの日本語訳があります。)
+  - name: lean4 - Where is the syntax of Lean 4 documented? - Proof Assistants Stack Exchange
+    category: awesome
+    homepage: https://proofassistants.stackexchange.com/questions/2305/where-is-the-syntax-of-lean-4-documented
+    description: Discussion regarding Lean 4 documentation.
   # movie
   - name: lean4 - YouTube
     category: movie
