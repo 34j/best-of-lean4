@@ -3,17 +3,110 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: cheetsheet
+    title: Cheetsheets
+    subtitle: Quick reference with short text
+  - category: tutorial
+    title: Tutorials
+    subtitle: Tutorials with long text
+  - category: sample
+    title: Samples
+    subtitle: Actual Lean 4 code for learning purposes
+  - category: package
+    title: Packages
+    subtitle: Reusable Lean 4 code
+  - category: core
+    title: Core packages
+    subtitle: Core Lean 4 code
+  - category: game
+    title: Games
+    subtitle: Lean 4 Games
+  - category: community
+    title: Community
+    subtitle: Community
+  - category: tool
+    title: Tools
+    subtitle: Tools not made in Lean 4
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  # core
+  - name: lean4
+    github_id: leanprover/lean4
+    category: core
+    description: Lean 4 repository. Includes `Lake`.
+  - name: std4
+    github_id: leanprover/std4
+    category: core
+    description: Standard Library.
+  - name: doc-gen4
+    github_id: leanprover/doc-gen4
+    category: core
+    description: Document Generator.
+  - name: elan
+    github_id: leanprover/elan
+    category: core
+    description: Version Manager.
+  - name: mathlib4
+    github_id: leanprover-community/mathlib4
+    category: core
+    description: Math library.
+  # package
+  - name: aesop
+    github_id: leanprover-community/aesop
+    category: package
+    description: Proof search tactic (Automated Extensible Search for Obvious Proofs)
+  - name: ProofWidgets
+    category: package
+    github_id: leanprover-community/ProofWidgets4
+  # tool
+  - name: vscode-lean4
+    github_id: leanprover/vscode-lean4
+    category: tool
+    description: Visual Studio Code extension.
+  - name: lean4web
+    category: tool
+    github_id: https://github.com/leanprover-community/lean4web
+    description: Web editor
+    homepage: https://live.lean-lang.org/
+  # game
+  - name: Lean Game Server
+    github_id: leanprover-community/lean4game
+    category: game
+    description: Mainly for Natural Number Game
+    homepage: https://adam.math.hhu.de/
+  # cheetsheet
+  - name: General Documentation
+    category: cheetsheet
+    homepage: https://leanprover-community.github.io/mathlib4_docs/
+  - name: Lean 4 Cheetsheet
+    category: cheetsheet
+    homepage: https://github.com/madvorak/lean4-cheatsheet/blob/main/lean-tactics.pdf
+  # tutorial
+  - name: Mathmatics in Lean
+    category: "tutorial"
+    github_id: https://github.com/leanprover-community/mathematics_in_lean
+    homepage: https://leanprover-community.github.io/mathematics_in_lean/
+  - name: A Lean 4 Metaprogramming Book
+    category: tutorial
+    github_id: leanprover-community/lean4-metaprogramming-book
+  - name: Functional Programming in Lean
+    category: tutorial
+    github_id: leanprover/fp-lean
+    homepage: https://lean-lang.org/functional_programming_in_lean/
+  - name: The mechanics of proof
+    homepage: https://hrmacbeth.github.io/math2001/
+    category: tutorial
+    description: Early university level course.
+  - name: Lean Manual
+    category: tutorial
+    homepage: https://lean-lang.org/lean4/doc/do.html
+  - name: Theorem Proving in Lean 4
+    category: tutorial
+    homepage: https://lean-lang.org/theorem_proving_in_lean4/
+    github_id: leanprover/theorem_proving_in_lean4
+  # community
+  - name: Lean Zulip
+    category: community
+    homepage: https://leanprover.zulipchat.com/
