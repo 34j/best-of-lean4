@@ -36,6 +36,10 @@ categories:
 labels:
   - label: "ja"
     description: "Written in Japanese"
+  - label: "zh_HANS"
+    description: "Written in simplified Chinese"
+  - label: "zh_HANT"
+    description: "Written in traditional Chinese"
 
 projects:
   # core
@@ -77,6 +81,10 @@ projects:
     github_id: leanprover-community/lean4web
     description: Web editor
     homepage: https://live.lean-lang.org/
+  - name: Paperproof
+    category: tool
+    github_id: Paper-Proof/paperproof
+    description: Theorem proving interface which feels like pen-and-paper proofs.
   # game
   - name: Lean Game Server
     github_id: leanprover-community/lean4game
@@ -130,6 +138,9 @@ projects:
     homepage: https://lean-lang.org/theorem_proving_in_lean4/
     github_id: leanprover/theorem_proving_in_lean4
   # samples
+  - name: The Matrix Cookbook, using Lean's mathlib
+    category: sample
+    github_id: eric-wieser/lean-matrix-cookbook
   - name: Lean Math Workshop
     category: sample
     github_id: yuma-mizuno/lean-math-workshop
