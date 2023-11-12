@@ -126,6 +126,9 @@ projects:
     github_id: madvorak/lean3-tactic-lean4
     description: Reference sheet for people who know Lean 3 and want to write tactic-based proofs in Lean 4
     labels: [lean3]
+  - name: The Lean Reference Manual
+    homepage: https://lean-lang.org/reference/index.html
+    labels: [lean3]
   # tutorial
   - name: Mathmatics in Lean
     category: "tutorial"
