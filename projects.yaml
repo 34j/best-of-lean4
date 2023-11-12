@@ -171,6 +171,9 @@ projects:
     description: Anarchy discord server.
     homepage: https://discord.com/invite/WZ9bs9UCvx
   # awesome
+  - name: Links (lean-lang.org)
+    category: awesome
+    homepage: https://lean-lang.org/links/
   - name: LEAN JA リンク集
     category: awesome
     homepage: https://lean-ja.github.io/links/
