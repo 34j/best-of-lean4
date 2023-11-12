@@ -15,9 +15,12 @@ categories:
   - category: sample
     title: Samples
     subtitle: Actual Lean 4 code for learning purposes
+  - category: package-meta
+    title: Packages (Meta)
+    subtitle: Reusable Lean 4 code for enhancing usability
   - category: package
     title: Packages
-    subtitle: Reusable Lean 4 code
+    subtitle: Reusable Lean 4 code (theorems, etc.)
   - category: core
     title: Core packages
     subtitle: Core Lean 4 code
@@ -71,14 +74,32 @@ projects:
     github_id: leanprover-community/mathlib4
     category: core
     description: Math library.
+  - name: quote4
+    github_id: leanprover-community/quote4
+    category: core
   # package
   - name: aesop
     github_id: leanprover-community/aesop
     category: package
     description: Proof search tactic (Automated Extensible Search for Obvious Proofs)
   - name: ProofWidgets
-    category: package
+    category: package-meta
     github_id: leanprover-community/ProofWidgets4
+  - name: llmstep
+    category: package-meta
+    github_id: wellecks/llmstep
+  - name: SciLean
+    category: package
+    github_id: lecopivo/SciLean
+  - name: SMT Lean
+    category: package
+    github_id: ufmg-smite/lean-smt
+  - name: SATurn
+    category: package
+    github_id: siddhartha-gadgil/Saturn
+  - name: lean-crypto
+    category: package
+    github_id: joehendrix/lean-crypto
   # tool
   - name: vscode-lean4
     github_id: leanprover/vscode-lean4
@@ -142,6 +163,9 @@ projects:
     homepage: https://lean-lang.org/reference/index.html
     description: Official Lean 3 Reference Manual
     labels: [lean3]
+  - name: Lean 4 Tactics
+    category: cheatsheet
+    github_id: madvorak/lean4-tactics
   # tutorial
   - name: Mathmatics in Lean
     category: "tutorial"
