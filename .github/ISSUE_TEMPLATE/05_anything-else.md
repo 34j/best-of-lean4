@@ -1,10 +1,9 @@
 ---
 name: "\U0001F4AC Anything else?"
 about: For questions or suggestions regarding the metadata collection or markdown generation, please refer to the best-of-lists/best-of-generator repository.
-title: ''
-labels: 'question'
-assignees: ''
-
+title: ""
+labels: "question"
+assignees: ""
 ---
 
 <!--

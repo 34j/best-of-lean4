@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD024 -->
+
 # Contribution Guidelines
 
 Thanks for your interest in contributing to our project. This page will give you a quick overview of how things are organized and, most importantly, how to get involved. Everyone is welcome to contribute, and we value everybody's contribution.
@@ -23,14 +24,14 @@ Before opening an issue or pull request, please ensure that you adhere to the fo
 
 - Please make sure that the project was not already added or suggested to this best-of list. You can ensure this by searching the projects.yaml, the Readme, and the issue list.
 - Add the project to the `projects.yaml` and never to the `README.md` file directly. Use the yaml format and the properties documented in the [project properties](#project-properties) section below to add a new project, for example:
-    ```yaml
-    - name: Tensorflow
-      github_id: tensorflow/tensorflow
-      pypi_id: tensorflow
-      conda_id: tensorflow
-      labels: ["tensorflow"]
-      category: ml-frameworks
-    ```
+  ```yaml
+  - name: Tensorflow
+    github_id: tensorflow/tensorflow
+    pypi_id: tensorflow
+    conda_id: tensorflow
+    labels: ["tensorflow"]
+    category: ml-frameworks
+  ```
 - Please create an individual issue or pull request for each project.
 - Please use the following title format for the issue or pull request: `Add project: project-name`.
 - If a project doesn't fit into any of the pre-existing categories, it should go under the `Others` category by not assigning any category. You can also suggest a new category via the add or update category template on the [issue page](https://github.com/34j/best-of-lean4/issues/new/choose).

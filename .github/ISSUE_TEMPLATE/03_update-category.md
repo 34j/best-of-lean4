@@ -1,10 +1,9 @@
 ---
 name: "🏷 Add or update a category"
 about: Do you like to suggest a new project category or update an existing one?
-title: ''
-labels: 'category'
-assignees: ''
-
+title: ""
+labels: "category"
+assignees: ""
 ---
 
 <!--
@@ -16,7 +15,7 @@ Please select either to add or to update a category. Tick of with: [] -> [x]
 
 **Category details:**
 
-<!--- 
+<!---
 Please state the category details that should be added or changed.
 -->
 

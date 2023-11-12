@@ -1,4 +1,3 @@
-
 ---
 
 ## Related Resources

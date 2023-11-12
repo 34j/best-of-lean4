@@ -1,4 +1,5 @@
 **What kind of change does this PR introduce?**
+
 <!-- (Update "[ ]" to "[x]" to check a box) -->
 
 - [ ] Add a project
@@ -10,9 +11,11 @@
 - [ ] Other, please describe:
 
 **Description:**
+
 <!--- Use this section to describe your changes. We recommend only to add, update, or remove one project per pull request. If your PR adds a new project, just put the project name and a short description of the project here.-->
 
 **Checklist:**
+
 <!--- Before you submit the PR, go over this checklist and make sure you can
 tick off all the boxes. [] -> [x] -->
 
