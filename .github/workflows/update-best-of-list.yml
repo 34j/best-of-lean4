@@ -9,6 +9,9 @@ on:
         required: false
   schedule:
     - cron: "0 18 * * 4" # Every thursday at 6pm
+  push:
+    branches:
+      - main
 
 env:
   BRANCH_PREFIX: "update/"
