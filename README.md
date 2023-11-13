@@ -10,22 +10,23 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-35-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-42-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/34j/best-of-lean4/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/34j/best-of-lean4?color=green&label=updated"></a>
 </p>
 
-This curated list contains 35 awesome open-source projects with a total of 5.1K stars grouped into 10 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/34j/best-of-lean4/issues/new/choose), submit a [pull request](https://github.com/34j/best-of-lean4/pulls), or directly edit the [projects.yaml](https://github.com/34j/best-of-lean4/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 42 awesome open-source projects with a total of 5.6K stars grouped into 11 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/34j/best-of-lean4/issues/new/choose), submit a [pull request](https://github.com/34j/best-of-lean4/pulls), or directly edit the [projects.yaml](https://github.com/34j/best-of-lean4/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️ Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [Cheatsheets](#cheatsheets) _8 projects_
+- [Cheatsheets](#cheatsheets) _9 projects_
 - [Tutorials](#tutorials) _7 projects_
 - [Samples](#samples) _2 projects_
-- [Packages](#packages) _2 projects_
-- [Core packages](#core-packages) _5 projects_
+- [Packages (Meta)](#packages-meta) _2 projects_
+- [Packages](#packages) _5 projects_
+- [Core packages](#core-packages) _6 projects_
 - [Games](#games) _1 projects_
 - [Community](#community) _2 projects_
 - [Tools](#tools) _3 projects_
@@ -75,7 +76,16 @@ _Quick reference with short text_
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/madvorak/lean4-cheatsheet/blob/main/lean-tactics.pdf">Lean 4 Cheatsheet</a></b> (🥉5 ·  ⭐ 9) - Printable (A4) overview of tactics in Lean 4 for beginners. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
+  <details><summary><b><a href="https://github.com/madvorak/lean4-tactics">Lean 4 Tactics</a></b> (🥈5 ·  ⭐ 16 · 🐣) - Overview of tactics in Lean 4 for beginners longer version. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
+
+- [GitHub](https://github.com/madvorak/lean4-tactics) (⏱️ 09.11.2023):
+
+      ```
+      git clone https://github.com/madvorak/lean4-tactics
+      ```
+
+  </details>
+  <details><summary><b><a href="https://github.com/madvorak/lean4-cheatsheet/blob/main/lean-tactics.pdf">Lean 4 Cheatsheet</a></b> (🥈5 ·  ⭐ 9) - Printable (A4) overview of tactics in Lean 4 for beginners. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
 
 - [GitHub](https://github.com/madvorak/lean4-cheatsheet) (⏱️ 06.10.2023):
 
@@ -105,7 +115,7 @@ _Quick reference with short text_
   <details><summary><b><a href="https://www.moogle.ai/">Moogle: Semantic search over mathlib4</a></b> (🥉1) - Better performance (latency) than `General.. <code>❗Unlicensed</code></summary>
 
 - _No project information available._</details>
-<details><summary><b><a href="https://live.lean-lang.org/#code=import%20Mathlib.Tactic%0D%0A%0D%0A%23help%20option%0D%0A%23help%20attr%0D%0A%23help%20cats%0D%0A%23help%20term%0D%0A%23help%20tactic%0D%0A%23help%20conv%0D%0A%23help%20command%0D%0A">`#help`` command output</a></b> (🥉1 · ➕) - Output of `#help option`, `#help attr`, ... shown in.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://live.lean-lang.org/#code=import%20Mathlib.Tactic%0D%0A%0D%0A%23help%20option%0D%0A%23help%20attr%0D%0A%23help%20cats%0D%0A%23help%20term%0D%0A%23help%20tactic%0D%0A%23help%20conv%0D%0A%23help%20command%0D%0A">`#help` command output</a></b> (🥉1 · ➕) - Output of `#help option`, `#help attr`, ... shown in.. <code>❗Unlicensed</code></summary>
 
 - _No project information available._</details>
 <details><summary>Show 1 hidden projects...</summary>
@@ -156,7 +166,7 @@ _Tutorials with long text_
       ```
 
   </details>
-  <details><summary><b><a href="https://hrmacbeth.github.io/math2001/">The mechanics of proof</a></b> (🥉7 ·  ⭐ 43 · 📈) - Early university level course. <code>❗Unlicensed</code></summary>
+  <details><summary><b><a href="https://hrmacbeth.github.io/math2001/">The mechanics of proof</a></b> (🥉7 ·  ⭐ 43) - Early university level course. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/hrmacbeth/math2001) (🔀 16 · ⏱️ 11.11.2023):
 
@@ -199,11 +209,11 @@ _Actual Lean 4 code for learning purposes_
   </details>
   <br>
 
-## Packages
+## Packages (Meta)
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-_Reusable Lean 4 code_
+_Reusable Lean 4 code for enhancing usability_
 
 <details><summary><b><a href="https://github.com/leanprover-community/ProofWidgets4">ProofWidgets</a></b> (🥇17 ·  ⭐ 62) - Helper toolkit for creating your own Lean 4 UserWidgets. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
@@ -214,12 +224,65 @@ _Reusable Lean 4 code_
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/leanprover-community/aesop">aesop</a></b> (🥉13 ·  ⭐ 97) - Proof search tactic (Automated Extensible Search for Obvious Proofs). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+  <details><summary><b><a href="https://github.com/wellecks/llmstep">llmstep</a></b> (🥉11 ·  ⭐ 58 · 🐣) - llmstep: [L]LM proofstep suggestions in Lean 4. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/wellecks/llmstep) (👨‍💻 5 · 🔀 6 · 📋 3 - 33% open · ⏱️ 11.11.2023):
+
+      ```
+      git clone https://github.com/wellecks/llmstep
+      ```
+
+  </details>
+  <br>
+
+## Packages
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Reusable Lean 4 code (theorems, etc.)_
+
+<details><summary><b><a href="https://github.com/lecopivo/SciLean">SciLean</a></b> (🥇15 ·  ⭐ 160 · ➕) - Scientific computing in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/lecopivo/SciLean) (👨‍💻 5 · 🔀 13 · 📋 21 - 57% open · ⏱️ 10.11.2023):
+
+      ```
+      git clone https://github.com/lecopivo/SciLean
+      ```
+
+  </details>
+  <details><summary><b><a href="https://github.com/leanprover-community/aesop">aesop</a></b> (🥈13 ·  ⭐ 97) - Proof search tactic (Automated Extensible Search for Obvious Proofs). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/leanprover-community/aesop) (👨‍💻 14 · 🔀 16 · 📋 44 - 25% open · ⏱️ 03.11.2023):
 
       ```
       git clone https://github.com/leanprover-community/aesop
+      ```
+
+  </details>
+  <details><summary><b><a href="https://github.com/ufmg-smite/lean-smt">SMT Lean</a></b> (🥉9 ·  ⭐ 55 · ➕) - Tactics for discharging Lean goals into SMT solvers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/ufmg-smite/lean-smt) (👨‍💻 4 · 🔀 13 · 📋 8 - 50% open · ⏱️ 08.11.2023):
+
+      ```
+      git clone https://github.com/ufmg-smite/lean-smt
+      ```
+
+  </details>
+  <details><summary><b><a href="https://github.com/siddhartha-gadgil/Saturn">SATurn</a></b> (🥉7 ·  ⭐ 41 · ➕) - Experiments with SAT solvers with proofs in Lean 4. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/siddhartha-gadgil/Saturn) (👨‍💻 2 · 🔀 1 · ⏱️ 11.09.2023):
+
+      ```
+      git clone https://github.com/siddhartha-gadgil/Saturn
+      ```
+
+  </details>
+  <details><summary><b><a href="https://github.com/joehendrix/lean-crypto">lean-crypto</a></b> (🥉6 ·  ⭐ 26 · ➕) - Cryptographic routines for the Lean 4 language. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/joehendrix/lean-crypto) (👨‍💻 3 · 🔀 2 · ⏱️ 02.10.2023):
+
+      ```
+      git clone https://github.com/joehendrix/lean-crypto
       ```
 
   </details>
@@ -249,7 +312,7 @@ _Core Lean 4 code_
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/leanprover/elan">elan</a></b> (🥉19 ·  ⭐ 220) - Version Manager. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+  <details><summary><b><a href="https://github.com/leanprover/elan">elan</a></b> (🥈19 ·  ⭐ 220) - Version Manager. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/leanprover/elan) (👨‍💻 17 · 🔀 28 · 📥 450K · 📋 62 - 32% open · ⏱️ 12.10.2023):
 
@@ -273,6 +336,15 @@ _Core Lean 4 code_
 
       ```
       git clone https://github.com/leanprover/doc-gen4
+      ```
+
+  </details>
+  <details><summary><b><a href="https://github.com/leanprover-community/quote4">quote4</a></b> (🥉9 ·  ⭐ 53 · ➕) - Intuitive, type-safe expression quotations for Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/leanprover-community/quote4) (👨‍💻 6 · 🔀 8 · 📋 13 - 46% open · ⏱️ 05.11.2023):
+
+      ```
+      git clone https://github.com/leanprover-community/quote4
       ```
 
   </details>
