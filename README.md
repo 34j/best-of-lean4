@@ -103,7 +103,7 @@ _Quick reference with short text_
       ```
 
   </details>
-  <details><summary><b><a href="https://leanprover-community.github.io/mathlib4_docs/">(Mathlib4) General Documentation (API Reference)</a></b> (🥉2 ·  ⭐ 5 · 📈) - Official Mathlib API Reference. <code>❗Unlicensed</code></summary>
+  <details><summary><b><a href="https://leanprover-community.github.io/mathlib4_docs/">(Mathlib4) General Documentation (API Reference)</a></b> (🥉2 ·  ⭐ 5) - Official Mathlib API Reference. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/leanprover-community/mathlib4_docs) (👨‍💻 3 · 🔀 1 · ⏱️ 18.11.2023):
 
@@ -132,7 +132,7 @@ _Tutorials with long text_
 
 <details><summary><b><a href="https://github.com/leanprover-community/lean4-metaprogramming-book">A Lean 4 Metaprogramming Book</a></b> (🥇14 ·  ⭐ 170) - Practical manual with code that goes into the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/leanprover-community/lean4-metaprogramming-book) (👨‍💻 16 · 🔀 38 · 📥 660 · 📋 28 - 50% open · ⏱️ 18.09.2023):
+- [GitHub](https://github.com/leanprover-community/lean4-metaprogramming-book) (👨‍💻 16 · 🔀 38 · 📥 670 · 📋 28 - 50% open · ⏱️ 18.09.2023):
 
       ```
       git clone https://github.com/leanprover-community/lean4-metaprogramming-book
@@ -303,7 +303,7 @@ _Core Lean 4 code_
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/leanprover-community/mathlib4">mathlib4</a></b> (🥈22 ·  ⭐ 450 · 📈) - Math library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+  <details><summary><b><a href="https://github.com/leanprover-community/mathlib4">mathlib4</a></b> (🥈22 ·  ⭐ 450) - Math library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/leanprover-community/mathlib4) (👨‍💻 180 · 🔀 150 · 📋 240 - 53% open · ⏱️ 23.11.2023):
 
@@ -332,14 +332,14 @@ _Core Lean 4 code_
   </details>
   <details><summary><b><a href="https://github.com/leanprover/doc-gen4">doc-gen4</a></b> (🥉14 ·  ⭐ 41) - Document Generator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/leanprover/doc-gen4) (👨‍💻 20 · 🔀 27 · 📋 70 - 38% open · ⏱️ 18.11.2023):
+- [GitHub](https://github.com/leanprover/doc-gen4) (👨‍💻 20 · 🔀 27 · 📋 72 - 40% open · ⏱️ 18.11.2023):
 
       ```
       git clone https://github.com/leanprover/doc-gen4
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/leanprover-community/quote4">quote4</a></b> (🥉10 ·  ⭐ 54 · 📈) - Intuitive, type-safe expression quotations for Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+  <details><summary><b><a href="https://github.com/leanprover-community/quote4">quote4</a></b> (🥉10 ·  ⭐ 54) - Intuitive, type-safe expression quotations for Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/leanprover-community/quote4) (👨‍💻 6 · 🔀 8 · 📋 13 - 46% open · ⏱️ 15.11.2023):
 
@@ -387,7 +387,7 @@ _Community_
 
 _Tools not made in Lean 4_
 
-<details><summary><b><a href="https://github.com/leanprover/vscode-lean4">vscode-lean4</a></b> (🥇18 ·  ⭐ 97) - Visual Studio Code extension. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/leanprover/vscode-lean4">vscode-lean4</a></b> (🥇18 ·  ⭐ 98) - Visual Studio Code extension. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/leanprover/vscode-lean4) (👨‍💻 47 · 🔀 28 · 📥 410 · 📋 160 - 27% open · ⏱️ 21.11.2023):
 
@@ -405,7 +405,7 @@ _Tools not made in Lean 4_
       ```
 
   </details>
-  <details><summary><b><a href="https://live.lean-lang.org/">lean4web</a></b> (🥉12 ·  ⭐ 33 · 📈) - Web editor. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+  <details><summary><b><a href="https://live.lean-lang.org/">lean4web</a></b> (🥉12 ·  ⭐ 33) - Web editor. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/leanprover-community/lean4web) (👨‍💻 5 · 🔀 7 · 📋 7 - 42% open · ⏱️ 22.11.2023):
 
