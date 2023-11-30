@@ -2,13 +2,12 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://github.com/leanprover/vscode-lean4">vscode-lean4</a></b> (🥇19 ·  ⭐ 100 · 📈) - Visual Studio Code extension. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/leanprover-community/ProofWidgets4">ProofWidgets</a></b> (🥇18 ·  ⭐ 64 · 📈) - Helper toolkit for creating your own Lean 4 UserWidgets. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/leanprover/vscode-lean4">vscode-lean4</a></b> (🥇19 · ⭐ 100 · 📈) - Visual Studio Code extension. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/leanprover-community/ProofWidgets4">ProofWidgets</a></b> (🥇18 · ⭐ 64 · 📈) - Helper toolkit for creating your own Lean 4 UserWidgets. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://leanprover-community.github.io/mathematics_in_lean/">Mathmatics in Lean</a></b> (🥉7 ·  ⭐ 110 · 📉) - Note that there are many parts of the documentation.. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/yuma-mizuno/lean-math-workshop">Lean Math Workshop</a></b> (🥉7 ·  ⭐ 47 · 🐣) - Materials for a workshop held in Japan. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>ja</code>
-
+- <b><a href="https://leanprover-community.github.io/mathematics_in_lean/">Mathmatics in Lean</a></b> (🥉7 · ⭐ 110 · 📉) - Note that there are many parts of the documentation.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/yuma-mizuno/lean-math-workshop">Lean Math Workshop</a></b> (🥉7 · ⭐ 47 · 🐣) - Materials for a workshop held in Japan. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>ja</code>
