@@ -2,19 +2,18 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://github.com/leanprover-community/mathlib4">mathlib4</a></b> (🥈23 ·  ⭐ 540 · 📈) - Math library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/leanprover/vscode-lean4">vscode-lean4</a></b> (🥇19 ·  ⭐ 110 · 📈) - Visual Studio Code extension. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/Paper-Proof/paperproof">Paperproof</a></b> (🥉16 ·  ⭐ 230 · 📈) - Theorem proving interface which feels like pen-and-paper proofs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/leanprover/std4">std4</a></b> (🥉15 ·  ⭐ 160 · 📈) - Standard Library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://hrmacbeth.github.io/math2001/">The mechanics of proof</a></b> (🥈9 ·  ⭐ 63 · 📈) - Early university level course. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/leanprover-community/mathlib4">mathlib4</a></b> (🥈23 · ⭐ 540 · 📈) - Math library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/leanprover/vscode-lean4">vscode-lean4</a></b> (🥇19 · ⭐ 110 · 📈) - Visual Studio Code extension. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Paper-Proof/paperproof">Paperproof</a></b> (🥉16 · ⭐ 230 · 📈) - Theorem proving interface which feels like pen-and-paper proofs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/leanprover/std4">std4</a></b> (🥉15 · ⭐ 160 · 📈) - Standard Library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://hrmacbeth.github.io/math2001/">The mechanics of proof</a></b> (🥈9 · ⭐ 63 · 📈) - Early university level course. <code>❗Unlicensed</code>
 
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://github.com/lecopivo/SciLean">SciLean</a></b> (🥇14 ·  ⭐ 180 · 📉) - Scientific computing in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/leanprover-community/lean4-metaprogramming-book">A Lean 4 Metaprogramming Book</a></b> (🥇13 ·  ⭐ 180 · 📉) - Practical manual with code that goes into the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/leanprover-community/aesop">aesop</a></b> (🥈12 ·  ⭐ 120 · 📉) - Proof search tactic (Automated Extensible Search for Obvious Proofs). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/ufmg-smite/lean-smt">SMT Lean</a></b> (🥉8 ·  ⭐ 58 · 📉) - Tactics for discharging Lean goals into SMT solvers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://lean-lang.org/functional_programming_in_lean/">Functional Programming in Lean</a></b> (🥉8 ·  ⭐ 53 · 📉) - Functional Programming in Lean. <code>❗Unlicensed</code>
-
+- <b><a href="https://github.com/lecopivo/SciLean">SciLean</a></b> (🥇14 · ⭐ 180 · 📉) - Scientific computing in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/leanprover-community/lean4-metaprogramming-book">A Lean 4 Metaprogramming Book</a></b> (🥇13 · ⭐ 180 · 📉) - Practical manual with code that goes into the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/leanprover-community/aesop">aesop</a></b> (🥈12 · ⭐ 120 · 📉) - Proof search tactic (Automated Extensible Search for Obvious Proofs). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/ufmg-smite/lean-smt">SMT Lean</a></b> (🥉8 · ⭐ 58 · 📉) - Tactics for discharging Lean goals into SMT solvers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://lean-lang.org/functional_programming_in_lean/">Functional Programming in Lean</a></b> (🥉8 · ⭐ 53 · 📉) - Functional Programming in Lean. <code>❗Unlicensed</code>
