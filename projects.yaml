@@ -100,6 +100,9 @@ projects:
   - name: lean-crypto
     category: package
     github_id: joehendrix/lean-crypto
+  - name: CvxLean
+    category: package
+    github_id: verified-optimization/CvxLean
   # tool
   - name: vscode-lean4
     github_id: leanprover/vscode-lean4
