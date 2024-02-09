@@ -2,24 +2,4 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://github.com/Paper-Proof/paperproof">Paperproof</a></b> (🥉17 · ⭐ 260 · 📈) - Theorem proving interface which feels like pen-and-paper proofs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/leanprover/std4">std4</a></b> (🥉17 · ⭐ 170 · 📈) - Standard Library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/leanprover-community/lean4-metaprogramming-book">A Lean 4 Metaprogramming Book</a></b> (🥇16 · ⭐ 190 · 📈) - Practical manual with code that goes into the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://hrmacbeth.github.io/math2001/">The mechanics of proof</a></b> (🥈10 · ⭐ 73 · 📈) - Early university level course. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/yuma-mizuno/lean-math-workshop">Lean Math Workshop</a></b> (🥇10 · ⭐ 48 · 📈) - Materials for a workshop held in Japan. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>ja</code>
-
-## 📉 Trending Down
-
-_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
-
-- <b><a href="https://github.com/lecopivo/SciLean">SciLean</a></b> (🥇14 · ⭐ 180 · 📉) - Scientific computing in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/wellecks/llmstep">llmstep</a></b> (🥉9 · ⭐ 80 · 📉) - llmstep: [L]LM proofstep suggestions in Lean 4. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/kevinsullivan/cs-dm/blob/master/CheatSheet.lean">cs-dm/CheatSheet.lean</a></b> (🥈6 · ⭐ 15 · 💀) - CS2012 UVa CS Discrete Math Spring 2018. <code>❗Unlicensed</code> <code>Lean 3</code>
-- <b><a href="https://lean-ja.github.io/tactic-cheetsheet/">Lean 4 Tactics Reverse Lookup List</a></b> (🥈5 · 🐣) - Lean 4 Tactics Reverse Lookup List. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>ja</code>
-- <b><a href="https://lean-ja.github.io/links/">LEAN JA リンク集</a></b> (🥇5 · 🐣) - Japanese translated versions of several tutorials are available. (). <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>ja</code>
-
-## ➕ Added Projects
-
-_Projects that were recently added to this best-of list._
-
-- <b><a href="https://github.com/verified-optimization/CvxLean">CvxLean</a></b> (🥈11 · ⭐ 20 · ➕) - Convex optimization modeling in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://leanprover-community.github.io/mathematics_in_lean/">Mathmatics in Lean</a></b> (🥈10 · ⭐ 150 · 📈) - Note that there are many parts of the documentation.. <code>❗Unlicensed</code>
