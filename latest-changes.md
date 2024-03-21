@@ -2,17 +2,16 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://github.com/leanprover-community/ProofWidgets4">ProofWidgets</a></b> (🥇18 ·  ⭐ 75 · 📈) - Helper toolkit for creating your own Lean 4 UserWidgets. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/lecopivo/SciLean">SciLean</a></b> (🥇15 ·  ⭐ 200 · 📈) - Scientific computing in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/verified-optimization/CvxLean">CvxLean</a></b> (🥈14 ·  ⭐ 24 · 📈) - Convex optimization modeling in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://lean-lang.org/theorem_proving_in_lean4/">Theorem Proving in Lean 4</a></b> (🥈13 ·  ⭐ 130 · 📈) - Theorem Proving in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/yuma-mizuno/lean-math-workshop">Lean Math Workshop</a></b> (🥇12 ·  ⭐ 51 · 📈) - Materials for a workshop held in Japan. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>ja</code>
+- <b><a href="https://github.com/leanprover-community/ProofWidgets4">ProofWidgets</a></b> (🥇18 · ⭐ 75 · 📈) - Helper toolkit for creating your own Lean 4 UserWidgets. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/lecopivo/SciLean">SciLean</a></b> (🥇15 · ⭐ 200 · 📈) - Scientific computing in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/verified-optimization/CvxLean">CvxLean</a></b> (🥈14 · ⭐ 24 · 📈) - Convex optimization modeling in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://lean-lang.org/theorem_proving_in_lean4/">Theorem Proving in Lean 4</a></b> (🥈13 · ⭐ 130 · 📈) - Theorem Proving in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/yuma-mizuno/lean-math-workshop">Lean Math Workshop</a></b> (🥇12 · ⭐ 51 · 📈) - Materials for a workshop held in Japan. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>ja</code>
 
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://github.com/Paper-Proof/paperproof">Paperproof</a></b> (🥉16 ·  ⭐ 280 · 📉) - Theorem proving interface which feels like pen-and-paper proofs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://live.lean-lang.org/">lean4web</a></b> (🥉10 ·  ⭐ 41 · 📉) - Web editor. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://leanprover-community.github.io/mathematics_in_lean/">Mathmatics in Lean</a></b> (🥉8 ·  ⭐ 160 · 📉) - Note that there are many parts of the documentation.. <code>❗Unlicensed</code>
-
+- <b><a href="https://github.com/Paper-Proof/paperproof">Paperproof</a></b> (🥉16 · ⭐ 280 · 📉) - Theorem proving interface which feels like pen-and-paper proofs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://live.lean-lang.org/">lean4web</a></b> (🥉10 · ⭐ 41 · 📉) - Web editor. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://leanprover-community.github.io/mathematics_in_lean/">Mathmatics in Lean</a></b> (🥉8 · ⭐ 160 · 📉) - Note that there are many parts of the documentation.. <code>❗Unlicensed</code>
