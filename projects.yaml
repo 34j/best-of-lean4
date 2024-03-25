@@ -170,7 +170,7 @@ projects:
     category: cheatsheet
     github_id: madvorak/lean4-tactics
   # tutorial
-  - name: Mathmatics in Lean
+  - name: Mathematics in Lean
     category: "tutorial"
     github_id: leanprover-community/mathematics_in_lean
     homepage: https://leanprover-community.github.io/mathematics_in_lean/
