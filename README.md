@@ -157,7 +157,7 @@ _Tutorials with long text_
       ```
 
   </details>
-  <details><summary><b><a href="https://leanprover-community.github.io/mathematics_in_lean/">Mathmatics in Lean</a></b> (🥉8 ·  ⭐ 190) - Note that there are many parts of the documentation.. <code>❗Unlicensed</code></summary>
+  <details><summary><b><a href="https://leanprover-community.github.io/mathematics_in_lean/">Mathematics in Lean</a></b> (🥉8 ·  ⭐ 190) - Note that there are many parts of the documentation.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/leanprover-community/mathematics_in_lean) (👨‍💻 3 · 🔀 130 · ⏱️ 02.05.2024):
 
