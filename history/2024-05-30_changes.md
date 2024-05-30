@@ -2,16 +2,15 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://github.com/leanprover-community/ProofWidgets4">ProofWidgets</a></b> (🥇19 ·  ⭐ 90 · 📈) - Helper toolkit for creating your own Lean 4 UserWidgets. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/leanprover-community/lean4-metaprogramming-book">A Lean 4 Metaprogramming Book</a></b> (🥇16 ·  ⭐ 200 · 📈) - Practical manual with code that goes into the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/leanprover-community/aesop">aesop</a></b> (🥇14 ·  ⭐ 150 · 📈) - Proof search tactic (Automated Extensible Search for Obvious Proofs). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://leanprover-community.github.io/mathematics_in_lean/">Mathmatics in Lean</a></b> (🥈9 ·  ⭐ 190 · 📈) - Note that there are many parts of the documentation.. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/joehendrix/lean-crypto">lean-crypto</a></b> (🥉6 ·  ⭐ 37 · 💤) - Cryptographic routines for the Lean 4 language. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/leanprover-community/ProofWidgets4">ProofWidgets</a></b> (🥇19 · ⭐ 90 · 📈) - Helper toolkit for creating your own Lean 4 UserWidgets. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/leanprover-community/lean4-metaprogramming-book">A Lean 4 Metaprogramming Book</a></b> (🥇16 · ⭐ 200 · 📈) - Practical manual with code that goes into the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/leanprover-community/aesop">aesop</a></b> (🥇14 · ⭐ 150 · 📈) - Proof search tactic (Automated Extensible Search for Obvious Proofs). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://leanprover-community.github.io/mathematics_in_lean/">Mathmatics in Lean</a></b> (🥈9 · ⭐ 190 · 📈) - Note that there are many parts of the documentation.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/joehendrix/lean-crypto">lean-crypto</a></b> (🥉6 · ⭐ 37 · 💤) - Cryptographic routines for the Lean 4 language. <code>❗Unlicensed</code>
 
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://github.com/lecopivo/SciLean">SciLean</a></b> (🥇14 ·  ⭐ 230 · 📉) - Scientific computing in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://lean-lang.org/theorem_proving_in_lean4/">Theorem Proving in Lean 4</a></b> (🥈11 ·  ⭐ 140 · 📉) - Theorem Proving in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-
+- <b><a href="https://github.com/lecopivo/SciLean">SciLean</a></b> (🥇14 · ⭐ 230 · 📉) - Scientific computing in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://lean-lang.org/theorem_proving_in_lean4/">Theorem Proving in Lean 4</a></b> (🥈11 · ⭐ 140 · 📉) - Theorem Proving in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
