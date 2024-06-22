@@ -51,6 +51,12 @@ jobs:
         with:
           libraries_key: ${{ secrets.LIBRARIES_KEY }}
           github_key: ${{ secrets.GITHUB_TOKEN }}
+      - name: run-pre-commit
+        shell: bash
+        run: |
+          # Stops script execution if a command has an error
+          set -e
+          pipx run pre-commit run --all-files
       - name: push-update
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
@@ -66,9 +72,9 @@ jobs:
         run: |
           # Stops script execution if a command has an error
           set -e
-          curl -fsSL https://github.com/github/hub/raw/master/script/get | bash -s 2.14.2
-          bin/hub pull-request -b ${{ env.DEFAULT_BRANCH }} -h ${{ env.BRANCH_PREFIX }}${{ env.VERSION  }} --no-edit -m "docs: best-of update ${{ env.VERSION  }}" -m "To finish this update: Select <code>Merge pull request</code> below and <code>Confirm merge</code>. Also, make sure to publish the created draft release in the [releases section](../releases) as well." || true
-          rm bin/hub
+          gh pr create -B ${{ env.DEFAULT_BRANCH }} -H ${{ env.BRANCH_PREFIX }}${{ env.VERSION  }} --title "docs: best-of update ${{ env.VERSION  }}" --body "To finish this update: Select <code>Merge pull request</code> below and <code>Confirm merge</code>. Also, make sure to publish the created draft release in the [releases section](../releases) as well." || true
+          # merge pull request
+          gh pr merge ${{ env.BRANCH_PREFIX }}${{ env.VERSION  }} --squash --auto || true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: create-release
@@ -79,5 +85,5 @@ jobs:
           tag_name: ${{ env.VERSION  }}
           release_name: "Update: ${{ env.VERSION  }}"
           body_path: "latest-changes.md"
-          draft: true
-          prerelease: false
+          # draft: true
+          # prerelease: false
