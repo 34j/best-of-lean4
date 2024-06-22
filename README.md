@@ -314,7 +314,7 @@ _Core Lean 4 code_
   </details>
   <details><summary><b><a href="https://github.com/leanprover-community/mathlib4">mathlib4</a></b> (🥈25 ·  ⭐ 1.1K) - Math library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/leanprover-community/mathlib4) (👨‍💻 280 · 🔀 250 · 📋 370 - 57% open · ⏱️ 21.06.2024):
+- [GitHub](https://github.com/leanprover-community/mathlib4) (👨‍💻 280 · 🔀 250 · 📋 370 - 57% open · ⏱️ 22.06.2024):
 
       ```
       git clone https://github.com/leanprover-community/mathlib4
