@@ -2,13 +2,10 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://github.com/leanprover/lean4">lean4</a></b> (🥇31 · ⭐ 4K · 📈) - Lean 4 repository. Includes `Lake`. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/leanprover/doc-gen4">doc-gen4</a></b> (🥉15 · ⭐ 57 · 📈) - Document Generator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://leanprover-community.github.io/mathlib4_docs/">(Mathlib4) General Documentation (API Reference)</a></b> (🥉3 · ⭐ 6 · 📈) - Official Mathlib API Reference. <code>❗Unlicensed</code>
+- <b><a href="https://leanprover-community.github.io/mathlib-overview.html">A mathlib overview</a></b> (🥇16 · ⭐ 51 · 📈) - Hosts the website for mathlib and other Lean community.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://github.com/leanprover-community/batteries">std4</a></b> (🥉16 · ⭐ 220 · 📉) - Standard Library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://hrmacbeth.github.io/math2001/">The mechanics of proof</a></b> (🥈9 · ⭐ 150 · 📉) - Early university level course. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/leanprover-community/lean4-metaprogramming-book">A Lean 4 Metaprogramming Book</a></b> (🥇14 · ⭐ 200 · 📉) - Practical manual with code that goes into the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
