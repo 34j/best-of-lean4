@@ -15,7 +15,7 @@
     <a href="https://github.com/34j/best-of-lean4/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/34j/best-of-lean4?color=green&label=updated"></a>
 </p>
 
-This curated list contains 43 awesome open-source projects with a total of 8.9K stars grouped into 11 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/34j/best-of-lean4/issues/new/choose), submit a [pull request](https://github.com/34j/best-of-lean4/pulls), or directly edit the [projects.yaml](https://github.com/34j/best-of-lean4/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 43 awesome open-source projects with a total of 8.9K stars grouped into 11 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to ~open an [issue](https://github.com/34j/best-of-lean4/issues/new/choose)~, submit a [pull request](https://github.com/34j/best-of-lean4/pulls), or **_directly edit the [projects.yaml](https://github.com/34j/best-of-lean4/edit/main/projects.yaml)_**. Contributions are very welcome!
 
 > 🧙‍♂️ Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -348,7 +348,7 @@ _Core Lean 4 code_
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/leanprover-community/quote4">quote4</a></b> (🥉10 ·  ⭐ 71 · 📈) - Intuitive, type-safe expression quotations for Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+  <details><summary><b><a href="https://github.com/leanprover-community/quote4">quote4</a></b> (🥉10 ·  ⭐ 71) - Intuitive, type-safe expression quotations for Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/leanprover-community/quote4) (👨‍💻 8 · 🔀 11 · 📋 20 - 55% open · ⏱️ 09.08.2024):
 
@@ -414,7 +414,7 @@ _Tools not made in Lean 4_
       ```
 
   </details>
-  <details><summary><b><a href="https://live.lean-lang.org/">lean4web</a></b> (🥉13 ·  ⭐ 60 · 📈) - Web editor. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+  <details><summary><b><a href="https://live.lean-lang.org/">lean4web</a></b> (🥉13 ·  ⭐ 60) - Web editor. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/leanprover-community/lean4web) (👨‍💻 5 · 🔀 15 · 📋 27 - 14% open · ⏱️ 09.08.2024):
 
