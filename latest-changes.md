@@ -1,1 +1,12 @@
-Nothing changed from last update.
+## 📈 Trending Up
+
+_Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
+
+- <b><a href="https://github.com/Paper-Proof/paperproof">Paperproof</a></b> (🥉15 · ⭐ 330 · 📈) - Theorem proving interface which feels like pen-and-paper proofs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+
+## 📉 Trending Down
+
+_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
+
+- <b><a href="https://github.com/leanprover-community/ProofWidgets4">ProofWidgets</a></b> (🥇19 · ⭐ 97 · 📉) - Helper toolkit for creating your own Lean 4 UserWidgets. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://leanprover-community.github.io/mathlib-overview.html">A mathlib overview</a></b> (🥇15 · ⭐ 51 · 📉) - Hosts the website for mathlib and other Lean community.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
