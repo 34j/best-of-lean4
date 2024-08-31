@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "📦 Suggest a project / ✏️ Update a project"
+    url: https://github.com/34j/best-of-lean4/pulls?q=sort%3Aupdated-desc+is%3Apr+is%3Aopen
+    about: "Please send a PR with your project suggestion, as it would be almost 100% merged if the maintainer is active."
