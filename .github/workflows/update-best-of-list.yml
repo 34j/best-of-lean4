@@ -67,6 +67,7 @@ jobs:
           tagging_message: ${{ env.VERSION  }}
           skip_dirty_check: true
           commit_options: "--allow-empty"
+          add_options: "--all"
       - name: create-pull-request
         shell: bash
         run: |
