@@ -86,7 +86,7 @@ _Quick reference with short text_
       ```
 
   </details>
-  <details><summary><b><a href="https://lean-ja.github.io/tactic-cheetsheet/">Lean 4 Tactics Reverse Lookup List</a></b> (🥈5) - Lean 4 Tactics Reverse Lookup List. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>ja</code></summary>
+  <details><summary><b><a href="https://lean-ja.github.io/lean-by-example/">Lean by Example</a></b> (🥈5 · ➕) - Lean. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>ja</code></summary>
 
 - [GitHub](https://github.com/lean-ja/lean-ja.github.io) (👨‍💻 3 · ⏱️ 18.06.2024):
 
