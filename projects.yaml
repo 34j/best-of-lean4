@@ -117,6 +117,9 @@ projects:
     category: tool
     github_id: Paper-Proof/paperproof
     description: Theorem proving interface which feels like pen-and-paper proofs.
+  - name: LeanDojo
+    category: tool
+    github_id: lean-dojo/LeanDojo
   # game
   - name: Lean Game Server
     github_id: leanprover-community/lean4game
