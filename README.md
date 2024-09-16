@@ -68,7 +68,7 @@ _Quick reference with short text_
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/madvorak/lean4-tactics">Lean 4 Tactics</a></b> (🥈6 ·  ⭐ 44 · 📉) - Overview of tactics in Lean 4 for beginners longer version. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
+  <details><summary><b><a href="https://github.com/madvorak/lean4-tactics">Lean 4 Tactics</a></b> (🥈6 ·  ⭐ 44) - Overview of tactics in Lean 4 for beginners longer version. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
 
 - [GitHub](https://github.com/madvorak/lean4-tactics) (👨‍💻 2 · 🔀 2 · ⏱️ 08.08.2024):
 
@@ -131,7 +131,7 @@ _Quick reference with short text_
 
 _Tutorials with long text_
 
-<details><summary><b><a href="https://github.com/leanprover-community/lean4-metaprogramming-book">A Lean 4 Metaprogramming Book</a></b> (🥇16 ·  ⭐ 210 · 📈) - Practical manual with code that goes into the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/leanprover-community/lean4-metaprogramming-book">A Lean 4 Metaprogramming Book</a></b> (🥇16 ·  ⭐ 210) - Practical manual with code that goes into the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/leanprover-community/lean4-metaprogramming-book) (👨‍💻 22 · 🔀 50 · 📥 93 · 📋 39 - 43% open · ⏱️ 29.08.2024):
 
@@ -216,7 +216,7 @@ _Actual Lean 4 code for learning purposes_
 
 _Reusable Lean 4 code for enhancing usability_
 
-<details><summary><b><a href="https://github.com/leanprover-community/ProofWidgets4">ProofWidgets</a></b> (🥇20 ·  ⭐ 100 · 📈) - Helper toolkit for creating your own Lean 4 UserWidgets. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/leanprover-community/ProofWidgets4">ProofWidgets</a></b> (🥇20 ·  ⭐ 100) - Helper toolkit for creating your own Lean 4 UserWidgets. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/leanprover-community/ProofWidgets4) (👨‍💻 14 · 🔀 23 · 📥 290K · 📋 20 - 65% open · ⏱️ 03.09.2024):
 
@@ -269,7 +269,7 @@ _Reusable Lean 4 code (theorems, etc.)_
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/ufmg-smite/lean-smt">SMT Lean</a></b> (🥉9 ·  ⭐ 91 · 📉) - Tactics for discharging Lean goals into SMT solvers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+  <details><summary><b><a href="https://github.com/ufmg-smite/lean-smt">SMT Lean</a></b> (🥉9 ·  ⭐ 91) - Tactics for discharging Lean goals into SMT solvers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/ufmg-smite/lean-smt) (👨‍💻 6 · 🔀 19 · 📋 14 - 42% open · ⏱️ 12.07.2024):
 
@@ -278,7 +278,7 @@ _Reusable Lean 4 code (theorems, etc.)_
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/joehendrix/lean-crypto">lean-crypto</a></b> (🥉8 ·  ⭐ 42 · 📈) - Cryptographic routines for the Lean 4 language. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+  <details><summary><b><a href="https://github.com/joehendrix/lean-crypto">lean-crypto</a></b> (🥉8 ·  ⭐ 42) - Cryptographic routines for the Lean 4 language. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/joehendrix/lean-crypto) (👨‍💻 3 · 🔀 3 · ⏱️ 09.09.2024):
 
@@ -287,7 +287,7 @@ _Reusable Lean 4 code (theorems, etc.)_
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/siddhartha-gadgil/Saturn">SATurn</a></b> (🥉5 ·  ⭐ 52 · 📉) - Experiments with SAT solvers with proofs in Lean 4. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+  <details><summary><b><a href="https://github.com/siddhartha-gadgil/Saturn">SATurn</a></b> (🥉5 ·  ⭐ 52) - Experiments with SAT solvers with proofs in Lean 4. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/siddhartha-gadgil/Saturn) (👨‍💻 2 · 🔀 1 · ⏱️ 23.06.2024):
 
@@ -322,7 +322,7 @@ _Core Lean 4 code_
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/leanprover/elan">elan</a></b> (🥈19 ·  ⭐ 300 · 📉) - Version Manager. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+  <details><summary><b><a href="https://github.com/leanprover/elan">elan</a></b> (🥈19 ·  ⭐ 300) - Version Manager. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/leanprover/elan) (👨‍💻 20 · 🔀 34 · 📥 720K · 📋 73 - 30% open · ⏱️ 02.08.2024):
 
@@ -340,7 +340,7 @@ _Core Lean 4 code_
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/leanprover/doc-gen4">doc-gen4</a></b> (🥉14 ·  ⭐ 62 · 📉) - Document Generator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+  <details><summary><b><a href="https://github.com/leanprover/doc-gen4">doc-gen4</a></b> (🥉14 ·  ⭐ 62) - Document Generator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/leanprover/doc-gen4) (👨‍💻 31 · 🔀 41 · 📋 77 - 29% open · ⏱️ 04.09.2024):
 
@@ -397,7 +397,7 @@ _Community_
 
 _Tools not made in Lean 4_
 
-<details><summary><b><a href="https://github.com/leanprover/vscode-lean4">vscode-lean4</a></b> (🥇21 ·  ⭐ 160 · 📈) - Visual Studio Code extension. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/leanprover/vscode-lean4">vscode-lean4</a></b> (🥇21 ·  ⭐ 160) - Visual Studio Code extension. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/leanprover/vscode-lean4) (👨‍💻 56 · 🔀 47 · 📥 340 · 📋 200 - 21% open · ⏱️ 12.09.2024):
 
@@ -406,7 +406,7 @@ _Tools not made in Lean 4_
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/Paper-Proof/paperproof">Paperproof</a></b> (🥉17 ·  ⭐ 350 · 📈) - Theorem proving interface which feels like pen-and-paper proofs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+  <details><summary><b><a href="https://github.com/Paper-Proof/paperproof">Paperproof</a></b> (🥉17 ·  ⭐ 350) - Theorem proving interface which feels like pen-and-paper proofs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/Paper-Proof/paperproof) (👨‍💻 5 · 🔀 9 · 📋 32 - 28% open · ⏱️ 08.09.2024):
 
