@@ -10,13 +10,13 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-43-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-44-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/34j/best-of-lean4/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/34j/best-of-lean4?color=green&label=updated"></a>
 </p>
 
 <!-- prettier-ignore -->
-This curated list contains 43 awesome open-source projects with a total of 9.3K stars grouped into 11 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to ~open an [issue](https://github.com/34j/best-of-lean4/issues/new/choose)~, submit a [pull request](https://github.com/34j/best-of-lean4/pulls), or **_directly edit the [projects.yaml](https://github.com/34j/best-of-lean4/edit/main/projects.yaml)_**. Contributions are very welcome!
+This curated list contains 44 awesome open-source projects with a total of 9.9K stars grouped into 11 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to ~open an [issue](https://github.com/34j/best-of-lean4/issues/new/choose)~, submit a [pull request](https://github.com/34j/best-of-lean4/pulls), or **_directly edit the [projects.yaml](https://github.com/34j/best-of-lean4/edit/main/projects.yaml)_**. Contributions are very welcome!
 
 > 🧙‍♂️ Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -30,7 +30,7 @@ This curated list contains 43 awesome open-source projects with a total of 9.3K 
 - [Core packages](#core-packages) _6 projects_
 - [Games](#games) _1 projects_
 - [Community](#community) _2 projects_
-- [Tools](#tools) _3 projects_
+- [Tools](#tools) _4 projects_
 - [Other awesome lists](#other-awesome-lists) _3 projects_
 - [Movies](#movies) _2 projects_
 
@@ -86,7 +86,7 @@ _Quick reference with short text_
       ```
 
   </details>
-  <details><summary><b><a href="https://lean-ja.github.io/lean-by-example/">Lean by Example</a></b> (🥈5 · ➕) - Lean. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>ja</code></summary>
+  <details><summary><b><a href="https://lean-ja.github.io/lean-by-example/">Lean by Example</a></b> (🥈5) - Lean. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>ja</code></summary>
 
 - [GitHub](https://github.com/lean-ja/lean-ja.github.io) (👨‍💻 3 · ⏱️ 18.06.2024):
 
@@ -403,6 +403,15 @@ _Tools not made in Lean 4_
 
       ```
       git clone https://github.com/leanprover/vscode-lean4
+      ```
+
+  </details>
+  <details><summary><b><a href="https://github.com/lean-dojo/LeanDojo">LeanDojo</a></b> (🥈18 ·  ⭐ 540 · ➕) - Tool for data extraction and interacting with Lean programmatically. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/lean-dojo/LeanDojo) (👨‍💻 17 · 🔀 79 · 📋 60 - 6% open · ⏱️ 06.09.2024):
+
+      ```
+      git clone https://github.com/lean-dojo/LeanDojo
       ```
 
   </details>
