@@ -1,11 +1,1 @@
-## 📉 Trending Down
-
-_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
-
-- <b><a href="https://github.com/leanprover/elan">elan</a></b> (🥈18 · ⭐ 300 · 📉) - Version Manager. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-
-## ➕ Added Projects
-
-_Projects that were recently added to this best-of list._
-
-- <b><a href="https://reservoir.lean-lang.org/">Reservoir</a></b> (🥉7 · ⭐ 16 · ➕) - Lakes package registry. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+Nothing changed from last update.
