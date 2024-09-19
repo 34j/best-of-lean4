@@ -120,6 +120,11 @@ projects:
   - name: LeanDojo
     category: tool
     github_id: lean-dojo/LeanDojo
+  - name: Reservoir
+    category: tool
+    github_id: leanprover/reservoir
+    description: Lake's package registry
+    homepage: https://reservoir.lean-lang.org/
   # game
   - name: Lean Game Server
     github_id: leanprover-community/lean4game
