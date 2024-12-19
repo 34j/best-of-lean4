@@ -120,6 +120,9 @@ projects:
   - name: LeanDojo
     category: tool
     github_id: lean-dojo/LeanDojo
+  - name: LeanCopilot
+    category: tool
+    github_id: lean-dojo/LeanCopilot
   - name: Reservoir
     category: tool
     github_id: leanprover/reservoir
