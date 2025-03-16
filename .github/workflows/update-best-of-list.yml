@@ -75,8 +75,6 @@ jobs:
           # Stops script execution if a command has an error
           set -e
           gh pr create -B ${{ env.DEFAULT_BRANCH }} -H ${{ env.BRANCH_PREFIX }}${{ env.VERSION  }} --title "docs: best-of update ${{ env.VERSION  }}" --body "To finish this update: Select <code>Merge pull request</code> below and <code>Confirm merge</code>. Also, make sure to publish the created draft release in the [releases section](../releases) as well." || true
-          # merge pull request
-          gh pr merge ${{ env.BRANCH_PREFIX }}${{ env.VERSION  }} --squash --auto || true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: create-release
