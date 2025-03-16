@@ -71,7 +71,7 @@ jobs:
           add_options: "--all"
       - name: Create Pull Request
         id: cpr
-        uses: peter-evans/create-pull-request@v3
+        uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           title: "docs: best-of update ${{ env.VERSION  }}"
