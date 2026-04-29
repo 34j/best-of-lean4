@@ -128,6 +128,11 @@ projects:
     github_id: leanprover/reservoir
     description: Lake's package registry
     homepage: https://reservoir.lean-lang.org/
+  - name: P2PCLAW
+    category: tool
+    github_id: Agnuxo1/p2pclaw
+    description: Decentralized peer-reviewed science network with Lean 4 formal verification, AI agents, and multi-LLM tribunal scoring. Uses Lean 4 for machine-checked proofs of scientific claims.
+    homepage: https://p2pclaw.com
   # game
   - name: Lean Game Server
     github_id: leanprover-community/lean4game
