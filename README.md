@@ -487,3 +487,5 @@ For more information on how to add or update projects, please read the [contribu
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+- [P2PCLAW](https://github.com/Agnuxo1/P2PCLAW) — Mathematics-backed peer-to-peer network with Lean 4 verified formal proofs and post-quantum cryptography
