@@ -3,10 +3,6 @@ name: update-best-of-list
 
 on:
   workflow_dispatch:
-    inputs:
-      version:
-        description: "Version to use for this update"
-        required: false
   schedule:
     - cron: "0 18 * * 4" # Every thursday at 6pm
   push:
@@ -15,6 +11,7 @@ on:
 
 jobs:
   lint:
+    if: ${{ github.event_name != 'push' || !contains(github.event.head_commit.message, '[skip ci]') }}
     runs-on: ubuntu-latest
     steps:
       - name: Set version
@@ -23,12 +20,13 @@ jobs:
       - uses: astral-sh/setup-uv@v8.1.0
       - name: Best of list update
         run: uvx best-of generate projects.yaml -g ${{ secrets.GITHUB_TOKEN}}
-      - uses: j178/prek-action@v2.0.3
       - uses: fregante/setup-git-user@v2
+      - name: Run prek
+        run: uvx prek run -a || uvx prek run -a || true
       - name: Commit changes
         run: |
           git add .
-          git commit -m "docs: ${{ env.VERSION  }}" || echo "No changes to commit"
+          git commit -m "docs: ${{ env.VERSION  }} [skip ci]" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
