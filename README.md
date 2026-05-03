@@ -169,7 +169,7 @@ _Tutorials with long text_
 
 _Actual Lean 4 code for learning purposes_
 
-<details><summary><b><a href="https://github.com/yuma-mizuno/lean-math-workshop">Lean Math Workshop</a></b> (🥇10 ·  ⭐ 96 · 📈) - Materials for a workshop held in Japan. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>ja</code></summary>
+<details><summary><b><a href="https://github.com/yuma-mizuno/lean-math-workshop">Lean Math Workshop</a></b> (🥇10 ·  ⭐ 96) - Materials for a workshop held in Japan. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>ja</code></summary>
 
 - [GitHub](https://github.com/yuma-mizuno/lean-math-workshop) (👨‍💻 5 · 🔀 27 · 📋 15 - 20% open · ⏱️ 07.03.2026):
 
@@ -395,7 +395,7 @@ _Tools not made in Lean 4_
       ```
 
   </details>
-  <details><summary><b><a href="https://reservoir.lean-lang.org/">Reservoir</a></b> (🥉11 ·  ⭐ 46 · 📈) - Lakes package registry. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+  <details><summary><b><a href="https://reservoir.lean-lang.org/">Reservoir</a></b> (🥉11 ·  ⭐ 46) - Lakes package registry. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/leanprover/reservoir) (👨‍💻 4 · 🔀 7 · 📋 58 - 12% open · ⏱️ 23.04.2026):
 
