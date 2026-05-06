@@ -61,7 +61,7 @@ _Quick reference with short text_
 
 <details><summary><b><a href="https://leanprover-community.github.io/mathlib-overview.html">A mathlib overview</a></b> (🥇19 ·  ⭐ 75) - Hosts the website for mathlib and other Lean community.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/leanprover-community/leanprover-community.github.io) (👨‍💻 170 · 🔀 180 · 📋 45 - 44% open · ⏱️ 29.04.2026):
+- [GitHub](https://github.com/leanprover-community/leanprover-community.github.io) (👨‍💻 170 · 🔀 180 · 📋 45 - 44% open · ⏱️ 06.05.2026):
 
       ```
       git clone https://github.com/leanprover-community/leanprover-community.github.io
@@ -125,7 +125,7 @@ _Tutorials with long text_
 
 <details><summary><b><a href="https://lean-lang.org/theorem_proving_in_lean4/">Theorem Proving in Lean 4</a></b> (🥈13 ·  ⭐ 250) - Theorem Proving in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/leanprover/theorem_proving_in_lean4) (👨‍💻 86 · 🔀 120 · 📋 87 - 81% open · ⏱️ 19.12.2025):
+- [GitHub](https://github.com/leanprover/theorem_proving_in_lean4) (👨‍💻 86 · 🔀 120 · 📋 88 - 81% open · ⏱️ 19.12.2025):
 
       ```
       git clone https://github.com/leanprover/theorem_proving_in_lean4
@@ -143,7 +143,7 @@ _Tutorials with long text_
   </details>
   <details><summary><b><a href="https://lean-lang.org/functional_programming_in_lean/">Functional Programming in Lean</a></b> (🥈11 ·  ⭐ 160) - Functional Programming in Lean. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/leanprover/fp-lean) (👨‍💻 6 · 🔀 54 · 📥 190 · 📋 210 - 31% open · ⏱️ 19.12.2025):
+- [GitHub](https://github.com/leanprover/fp-lean) (👨‍💻 6 · 🔀 55 · 📥 190 · 📋 210 - 31% open · ⏱️ 19.12.2025):
 
       ```
       git clone https://github.com/leanprover/fp-lean
@@ -259,16 +259,16 @@ _Core Lean 4 code_
 
 <details><summary><b><a href="https://github.com/leanprover/lean4">lean4</a></b> (🥇34 ·  ⭐ 8K) - Lean 4 repository. Includes `Lake`. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/leanprover/lean4) (👨‍💻 280 · 🔀 820 · 📥 3.3M · 📋 3.1K - 29% open · ⏱️ 03.05.2026):
+- [GitHub](https://github.com/leanprover/lean4) (👨‍💻 280 · 🔀 820 · 📥 3.3M · 📋 3.1K - 29% open · ⏱️ 05.05.2026):
 
       ```
       git clone https://github.com/leanprover/lean4
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/leanprover-community/mathlib4">mathlib4</a></b> (🥈29 ·  ⭐ 3.2K) - Math library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+  <details><summary><b><a href="https://github.com/leanprover-community/mathlib4">mathlib4</a></b> (🥈29 ·  ⭐ 3.3K) - Math library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/leanprover-community/mathlib4) (👨‍💻 750 · 🔀 1.2K · 📋 600 - 45% open · ⏱️ 03.05.2026):
+- [GitHub](https://github.com/leanprover-community/mathlib4) (👨‍💻 750 · 🔀 1.3K · 📋 600 - 44% open · ⏱️ 06.05.2026):
 
       ```
       git clone https://github.com/leanprover-community/mathlib4
@@ -286,16 +286,16 @@ _Core Lean 4 code_
   </details>
   <details><summary><b><a href="https://github.com/leanprover-community/batteries">std4</a></b> (🥉20 ·  ⭐ 380) - Standard Library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/leanprover-community/batteries) (👨‍💻 84 · 🔀 140 · 📥 200 · 📋 82 - 34% open · ⏱️ 29.04.2026):
+- [GitHub](https://github.com/leanprover-community/batteries) (👨‍💻 84 · 🔀 140 · 📥 200 · 📋 82 - 34% open · ⏱️ 05.05.2026):
 
       ```
       git clone https://github.com/leanprover/std4
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/leanprover/doc-gen4">doc-gen4</a></b> (🥉14 ·  ⭐ 150) - Document Generator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+  <details><summary><b><a href="https://github.com/leanprover/doc-gen4">doc-gen4</a></b> (🥉15 ·  ⭐ 150 · 📈) - Document Generator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/leanprover/doc-gen4) (👨‍💻 48 · 🔀 63 · 📋 100 - 27% open · ⏱️ 28.04.2026):
+- [GitHub](https://github.com/leanprover/doc-gen4) (👨‍💻 49 · 🔀 62 · 📋 100 - 27% open · ⏱️ 04.05.2026):
 
       ```
       git clone https://github.com/leanprover/doc-gen4
@@ -379,14 +379,14 @@ _Tools not made in Lean 4_
   </details>
   <details><summary><b><a href="https://live.lean-lang.org/">lean4web</a></b> (🥈16 ·  ⭐ 140) - Web editor. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/leanprover-community/lean4web) (👨‍💻 14 · 🔀 48 · 📋 64 - 10% open · ⏱️ 01.05.2026):
+- [GitHub](https://github.com/leanprover-community/lean4web) (👨‍💻 14 · 🔀 49 · 📋 64 - 10% open · ⏱️ 01.05.2026):
 
       ```
       git clone https://github.com/leanprover-community/lean4web
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/lean-dojo/LeanDojo">LeanDojo</a></b> (🥉15 ·  ⭐ 790) - Tool for data extraction and interacting with Lean programmatically. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+  <details><summary><b><a href="https://github.com/lean-dojo/LeanDojo">LeanDojo</a></b> (🥉15 ·  ⭐ 800) - Tool for data extraction and interacting with Lean programmatically. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/lean-dojo/LeanDojo) (👨‍💻 22 · 🔀 120 · 📋 86 - 6% open · ⏱️ 18.01.2026):
 
