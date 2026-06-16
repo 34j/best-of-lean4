@@ -216,6 +216,11 @@ projects:
     github_id: yuma-mizuno/lean-math-workshop
     description: Materials for a workshop held in Japan.
     labels: [ja]
+  - name: K-Lean
+    github_id: Heime-Jorgen/kenosian-lean4
+    category: package
+    homepage: https://kpp.kenosian.com/k-lean.html
+    description: 64 machine-verified contracts for computational biology. sorry-free. Covers Michaelis-Menten, Hill equation, SIR epidemic models, eGFR, mRNA half-life, and more.
   # community
   - name: Zulip chat for discussions about Lean and mathlib
     category: community
