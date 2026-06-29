@@ -107,13 +107,16 @@ _Quick reference with short text_
   <details><summary><b><a href="https://www.moogle.ai/">Moogle: Semantic search over mathlib4</a></b> (🥉1) - Better performance (latency) than `General.. <code>❗Unlicensed</code></summary>
 
 - _No project information available._</details>
+
 <details><summary><b><a href="https://live.lean-lang.org/#code=import%20Mathlib.Tactic%0D%0A%0D%0A%23help%20option%0D%0A%23help%20attr%0D%0A%23help%20cats%0D%0A%23help%20term%0D%0A%23help%20tactic%0D%0A%23help%20conv%0D%0A%23help%20command%0D%0A">`#help` command output</a></b> (🥉1) - Output of `#help option`, `#help attr`, ... shown in.. <code>❗Unlicensed</code></summary>
 
 - _No project information available._</details>
+
 <details><summary>Show 2 hidden projects...</summary>
 
 - <b><a href="https://github.com/kevinsullivan/cs-dm/blob/master/CheatSheet.lean">cs-dm/CheatSheet.lean</a></b> (🥈6 · ⭐ 17 · 💀) - CS2012 UVa CS Discrete Math Spring 2018. <code>❗Unlicensed</code> <code>Lean 3</code>
 - <b><a href="https://github.com/madvorak/lean4-cheatsheet/blob/main/lean-tactics.pdf">Lean 4 Cheatsheet</a></b> (🥉5 · ⭐ 31 · 💀) - Printable (A4) overview of tactics in Lean 4 for.. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code>
+
 </details>
 <br>
 
@@ -153,13 +156,16 @@ _Tutorials with long text_
   <details><summary><b><a href="https://lean-lang.org/reference/index.html">The Lean Reference Manual</a></b> (🥉1) - Official Lean 3 Reference Manual. <code>❗Unlicensed</code> <code>Lean 3</code></summary>
 
 - _No project information available._</details>
+
 <details><summary><b><a href="https://lean-lang.org/lean4/doc/do.html">Lean Manual</a></b> (🥉1) - Official Manual. <code>❗Unlicensed</code></summary>
 
 - _No project information available._</details>
+
 <details><summary>Show 2 hidden projects...</summary>
 
 - <b><a href="https://github.com/leanprover-community/lean4-metaprogramming-book">A Lean 4 Metaprogramming Book</a></b> (🥇14 · ⭐ 300 · 💀) - Practical manual with code that goes into the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://hrmacbeth.github.io/math2001/">The mechanics of proof</a></b> (🥉10 · ⭐ 350 · 💀) - Early university level course. <code>❗Unlicensed</code>
+
 </details>
 <br>
 
@@ -207,6 +213,7 @@ _Reusable Lean 4 code for enhancing usability_
   <details><summary>Show 1 hidden projects...</summary>
 
 - <b><a href="https://github.com/wellecks/llmstep">llmstep</a></b> (🥉9 · ⭐ 150 · 💀) - llmstep: [L]LM proofstep suggestions in Lean 4. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+
 </details>
 <br>
 
@@ -257,6 +264,7 @@ _Reusable Lean 4 code (theorems, etc.)_
 - <b><a href="https://github.com/verified-optimization/CvxLean">CvxLean</a></b> (🥉10 · ⭐ 74 · 💀) - Convex optimization modeling in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/joehendrix/lean-crypto">lean-crypto</a></b> (🥉7 · ⭐ 53 · 💀) - Cryptographic routines for the Lean 4 language. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/siddhartha-gadgil/Saturn">SATurn</a></b> (🥉6 · ⭐ 63 · 💀) - Experiments with SAT solvers with proofs in Lean 4. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+
 </details>
 <br>
 
@@ -348,6 +356,7 @@ _Community_
 <details><summary><b><a href="https://leanprover.zulipchat.com/">Zulip chat for discussions about Lean and mathlib</a></b> (🥇1) - Official community. <code>❗Unlicensed</code></summary>
 
 - _No project information available._</details>
+
 <details><summary><b><a href="https://discord.com/invite/WZ9bs9UCvx">Lean 4 Anarchy (Discord)</a></b> (🥇1) - Anarchy discord server. <code>❗Unlicensed</code></summary>
 
 - _No project information available._</details>
@@ -431,6 +440,7 @@ _Tools not made in Lean 4_
   <details><summary><b><a href="https://lean-lang.org/links/">Links (lean-lang.org)</a></b> (🥉1) - Official collection of links. <code>❗Unlicensed</code></summary>
 
 - _No project information available._</details>
+
 <details><summary><b><a href="https://proofassistants.stackexchange.com/questions/2305/where-is-the-syntax-of-lean-4-documented">lean4 - Where is the syntax of Lean 4 documented? - Proof Assistants Stack Exchange</a></b> (🥉1) - Discussion regarding Lean 4 documentation. <code>❗Unlicensed</code></summary>
 
 - _No project information available._</details>
@@ -443,6 +453,7 @@ _Tools not made in Lean 4_
 <details><summary><b><a href="https://www.youtube.com/results?search_query=lean4">lean4 - YouTube</a></b> (🥇1) - YouTube movies. <code>❗Unlicensed</code></summary>
 
 - _No project information available._</details>
+
 <details><summary><b><a href="https://www.nicovideo.jp/tag/Lean">人気の「Lean」動画 14本 - ニコニコ動画</a></b> (🥇1) - Niconico movies. Entertaining instructions using TTS.. <code>❗Unlicensed</code> <code>ja</code></summary>
 
 - _No project information available._</details>
