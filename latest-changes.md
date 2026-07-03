@@ -1,8 +1,5 @@
-## 📉 Trending Down
+## ➕ Added Projects
 
-_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
+_Projects that were recently added to this best-of list._
 
-- <b><a href="https://github.com/lean-dojo/LeanCopilot">LeanCopilot</a></b> (🥈18 · ⭐ 1.3K · 📉) - LLMs as Copilots for Theorem Proving in Lean. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/leanprover-community/quote4">quote4</a></b> (🥉11 · ⭐ 110 · 📉) - Intuitive, type-safe expression quotations for Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://reservoir.lean-lang.org/">Reservoir</a></b> (🥉11 · ⭐ 47 · 📉) - Lakes package registry. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/madvorak/lean4-tactics">Lean 4 Tactics</a></b> (🥈7 · ⭐ 120 · 📉) - Overview of tactics in Lean 4 for beginners longer.. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code>
+- <b><a href="https://github.com/Archerkattri/mathlas">mathlas</a></b> (🥉13 · ⭐ 4 · 🐣) - MCP server that lets AI agents check proofs with the Lean 4 kernel.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
