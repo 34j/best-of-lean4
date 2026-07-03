@@ -128,6 +128,11 @@ projects:
     github_id: leanprover/reservoir
     description: Lake's package registry
     homepage: https://reservoir.lean-lang.org/
+  - name: mathlas
+    category: tool
+    github_id: Archerkattri/mathlas
+    pypi_id: mathlas-mcp
+    description: MCP server that lets AI agents check proofs with the Lean 4 kernel and search mathlib (via Loogle/LeanSearch).
   # game
   - name: Lean Game Server
     github_id: leanprover-community/lean4game
