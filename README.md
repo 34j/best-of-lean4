@@ -10,27 +10,27 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-48-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-24-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/34j/best-of-lean4/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/34j/best-of-lean4?color=green&label=updated"></a>
 </p>
 
 <!-- prettier-ignore -->
-This curated list contains 48 awesome open-source projects with a total of 21K stars grouped into 11 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to ~open an [issue](https://github.com/34j/best-of-lean4/issues/new/choose)~, submit a [pull request](https://github.com/34j/best-of-lean4/pulls), or **_directly edit the [projects.yaml](https://github.com/34j/best-of-lean4/edit/main/projects.yaml)_**. Contributions are very welcome!
+This curated list contains 24 awesome open-source projects with a total of 0 stars grouped into 11 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to ~open an [issue](https://github.com/34j/best-of-lean4/issues/new/choose)~, submit a [pull request](https://github.com/34j/best-of-lean4/pulls), or **_directly edit the [projects.yaml](https://github.com/34j/best-of-lean4/edit/main/projects.yaml)_**. Contributions are very welcome!
 
 > 🧙‍♂️ Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [Cheatsheets](#cheatsheets) _9 projects_
-- [Tutorials](#tutorials) _7 projects_
-- [Samples](#samples) _2 projects_
-- [Packages (Meta)](#packages-meta) _2 projects_
-- [Packages](#packages) _7 projects_
-- [Core packages](#core-packages) _6 projects_
+- [Cheatsheets](#cheatsheets) _7 projects_
+- [Tutorials](#tutorials) _6 projects_
+- [Samples](#samples) _0 projects_
+- [Packages (Meta)](#packages-meta) _0 projects_
+- [Packages](#packages) _1 projects_
+- [Core packages](#core-packages) _0 projects_
 - [Games](#games) _1 projects_
 - [Community](#community) _2 projects_
-- [Tools](#tools) _7 projects_
+- [Tools](#tools) _2 projects_
 - [Other awesome lists](#other-awesome-lists) _3 projects_
 - [Movies](#movies) _2 projects_
 
@@ -59,61 +59,35 @@ This curated list contains 48 awesome open-source projects with a total of 21K s
 
 _Quick reference with short text_
 
-<details><summary><b><a href="https://leanprover-community.github.io/mathlib-overview.html">A mathlib overview</a></b> (🥇19 ·  ⭐ 79) - Hosts the website for mathlib and other Lean community.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://leanprover-community.github.io/mathlib4_docs/">(Mathlib4) General Documentation (API Reference)</a></b> (🥈1) - Official Mathlib API Reference. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/leanprover-community/leanprover-community.github.io) (👨‍💻 180 · 🔀 190 · 📋 45 - 44% open · ⏱️ 07.07.2026):
-
-      ```
-      git clone https://github.com/leanprover-community/leanprover-community.github.io
-      ```
-
-  </details>
-  <details><summary><b><a href="https://github.com/madvorak/lean4-tactics">Lean 4 Tactics</a></b> (🥈7 ·  ⭐ 120) - Overview of tactics in Lean 4 for beginners longer version. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
-
-- [GitHub](https://github.com/madvorak/lean4-tactics) (👨‍💻 3 · 🔀 3 · ⏱️ 28.04.2026):
-
-      ```
-      git clone https://github.com/madvorak/lean4-tactics
-      ```
-
-  </details>
-  <details><summary><b><a href="https://github.com/madvorak/lean3-tactic-lean4">lean3-tactic-lean4</a></b> (🥈6 ·  ⭐ 27 · 💤) - Reference sheet for people who know Lean 3 and want.. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code> <code>Lean 3</code></summary>
-
-- [GitHub](https://github.com/madvorak/lean3-tactic-lean4) (👨‍💻 2 · 🔀 3 · ⏱️ 13.10.2025):
-
-      ```
-      git clone https://github.com/madvorak/lean3-tactic-lean4
-      ```
-
-  </details>
-  <details><summary><b><a href="https://lean-ja.github.io/lean-by-example/">Lean by Example</a></b> (🥉5 ·  ⭐ 1) - Lean. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>ja</code></summary>
-
-- [GitHub](https://github.com/lean-ja/lean-ja.github.io) (👨‍💻 3 · 🔀 1 · ⏱️ 05.06.2026):
-
-      ```
-      git clone https://github.com/lean-ja/lean-ja.github.io
-      ```
-
-  </details>
-  <details><summary><b><a href="https://leanprover-community.github.io/mathlib4_docs/">(Mathlib4) General Documentation (API Reference)</a></b> (🥉4 ·  ⭐ 10) - Official Mathlib API Reference. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/leanprover-community/mathlib4_docs) (👨‍💻 7 · 🔀 6 · ⏱️ 08.06.2026):
+- [GitHub]() (👨‍💻 7):
 
       ```
       git clone https://github.com/leanprover-community/mathlib4_docs
       ```
 
   </details>
-  <details><summary><b><a href="https://www.moogle.ai/">Moogle: Semantic search over mathlib4</a></b> (🥉1) - Better performance (latency) than `General.. <code>❗Unlicensed</code></summary>
+  <details><summary><b><a href="https://www.moogle.ai/">Moogle: Semantic search over mathlib4</a></b> (🥈1) - Better performance (latency) than `General.. <code>❗Unlicensed</code></summary>
 
 - _No project information available._</details>
-<details><summary><b><a href="https://live.lean-lang.org/#code=import%20Mathlib.Tactic%0D%0A%0D%0A%23help%20option%0D%0A%23help%20attr%0D%0A%23help%20cats%0D%0A%23help%20term%0D%0A%23help%20tactic%0D%0A%23help%20conv%0D%0A%23help%20command%0D%0A">`#help` command output</a></b> (🥉1) - Output of `#help option`, `#help attr`, ... shown in.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://lean-ja.github.io/lean-by-example/">Lean by Example</a></b> (🥈1) - Lean. <code>❗Unlicensed</code> <code>ja</code></summary>
+
+- [GitHub]() (👨‍💻 3):
+
+      ```
+      git clone https://github.com/lean-ja/lean-ja.github.io
+      ```
+
+  </details>
+  <details><summary><b><a href="https://live.lean-lang.org/#code=import%20Mathlib.Tactic%0D%0A%0D%0A%23help%20option%0D%0A%23help%20attr%0D%0A%23help%20cats%0D%0A%23help%20term%0D%0A%23help%20tactic%0D%0A%23help%20conv%0D%0A%23help%20command%0D%0A">`#help` command output</a></b> (🥈1) - Output of `#help option`, `#help attr`, ... shown in.. <code>❗Unlicensed</code></summary>
 
 - _No project information available._</details>
-<details><summary>Show 2 hidden projects...</summary>
+<details><summary>Show 3 hidden projects...</summary>
 
-- <b><a href="https://github.com/kevinsullivan/cs-dm/blob/master/CheatSheet.lean">cs-dm/CheatSheet.lean</a></b> (🥈6 · ⭐ 17 · 💀) - CS2012 UVa CS Discrete Math Spring 2018. <code>❗Unlicensed</code> <code>Lean 3</code>
-- <b><a href="https://github.com/madvorak/lean4-cheatsheet/blob/main/lean-tactics.pdf">Lean 4 Cheatsheet</a></b> (🥉5 · ⭐ 31 · 💀) - Printable (A4) overview of tactics in Lean 4 for.. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code>
+- <b><a href="https://leanprover-community.github.io/mathlib-overview.html">A mathlib overview</a></b> (🥇2) - <code>❗Unlicensed</code>
+- <b><a href="https://github.com/madvorak/lean4-cheatsheet/blob/main/lean-tactics.pdf">Lean 4 Cheatsheet</a></b> - <code>❗Unlicensed</code>
+- <b><a href="https://github.com/kevinsullivan/cs-dm/blob/master/CheatSheet.lean">cs-dm/CheatSheet.lean</a></b> - <code>❗Unlicensed</code> <code>Lean 3</code>
 </details>
 <br>
 
@@ -123,51 +97,34 @@ _Quick reference with short text_
 
 _Tutorials with long text_
 
-<details><summary><b><a href="https://github.com/leanprover-community/lean4-metaprogramming-book">A Lean 4 Metaprogramming Book</a></b> (🥇15 ·  ⭐ 300 · 📈) - Practical manual with code that goes into the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://lean-lang.org/reference/index.html">The Lean Reference Manual</a></b> (🥇1) - Official Lean 3 Reference Manual. <code>❗Unlicensed</code> <code>Lean 3</code></summary>
 
-- [GitHub](https://github.com/leanprover-community/lean4-metaprogramming-book) (👨‍💻 31 · 🔀 74 · 📥 11 · 📋 51 - 52% open · ⏱️ 11.07.2026):
+- _No project information available._</details>
+<details><summary><b><a href="https://leanprover-community.github.io/mathematics_in_lean/">Mathematics in Lean</a></b> (🥇1) - Note that there are many parts of the documentation at.. <code>❗Unlicensed</code></summary>
 
-      ```
-      git clone https://github.com/leanprover-community/lean4-metaprogramming-book
-      ```
-
-  </details>
-  <details><summary><b><a href="https://lean-lang.org/theorem_proving_in_lean4/">Theorem Proving in Lean 4</a></b> (🥈13 ·  ⭐ 260 · 💤) - Theorem Proving in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/leanprover/theorem_proving_in_lean4) (👨‍💻 86 · 🔀 130 · 📋 90 - 82% open · ⏱️ 19.12.2025):
-
-      ```
-      git clone https://github.com/leanprover/theorem_proving_in_lean4
-      ```
-
-  </details>
-  <details><summary><b><a href="https://leanprover-community.github.io/mathematics_in_lean/">Mathematics in Lean</a></b> (🥈12 ·  ⭐ 560) - Note that there are many parts of the documentation.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/leanprover-community/mathematics_in_lean) (👨‍💻 3 · 🔀 380 · ⏱️ 11.06.2026):
+- [GitHub]() (👨‍💻 3):
 
       ```
       git clone https://github.com/leanprover-community/mathematics_in_lean
       ```
 
   </details>
-  <details><summary><b><a href="https://lean-lang.org/functional_programming_in_lean/">Functional Programming in Lean</a></b> (🥉11 ·  ⭐ 170 · 💤) - Functional Programming in Lean. <code>❗Unlicensed</code></summary>
+  <details><summary><b><a href="https://hrmacbeth.github.io/math2001/">The mechanics of proof</a></b> (🥇1 · 📉) - Early university level course. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/leanprover/fp-lean) (👨‍💻 6 · 🔀 64 · 📥 210 · 📋 220 - 32% open · ⏱️ 19.12.2025):
+- [GitHub]():
 
       ```
-      git clone https://github.com/leanprover/fp-lean
+      git clone https://github.com/hrmacbeth/math2001
       ```
 
   </details>
-  <details><summary><b><a href="https://lean-lang.org/reference/index.html">The Lean Reference Manual</a></b> (🥉1) - Official Lean 3 Reference Manual. <code>❗Unlicensed</code> <code>Lean 3</code></summary>
+  <details><summary><b><a href="https://lean-lang.org/lean4/doc/do.html">Lean Manual</a></b> (🥇1) - Official Manual. <code>❗Unlicensed</code></summary>
 
 - _No project information available._</details>
-<details><summary><b><a href="https://lean-lang.org/lean4/doc/do.html">Lean Manual</a></b> (🥉1) - Official Manual. <code>❗Unlicensed</code></summary>
+<details><summary>Show 2 hidden projects...</summary>
 
-- _No project information available._</details>
-<details><summary>Show 1 hidden projects...</summary>
-
-- <b><a href="https://hrmacbeth.github.io/math2001/">The mechanics of proof</a></b> (🥉10 · ⭐ 360 · 💀) - Early university level course. <code>❗Unlicensed</code>
+- <b><a href="https://lean-lang.org/theorem_proving_in_lean4/">Theorem Proving in Lean 4</a></b> (🥇1) - <code>❗Unlicensed</code>
+- <b><a href="https://lean-lang.org/functional_programming_in_lean/">Functional Programming in Lean</a></b> - <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -177,25 +134,7 @@ _Tutorials with long text_
 
 _Actual Lean 4 code for learning purposes_
 
-<details><summary><b><a href="https://github.com/yuma-mizuno/lean-math-workshop">Lean Math Workshop</a></b> (🥇10 ·  ⭐ 100) - Materials for a workshop held in Japan. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>ja</code></summary>
-
-- [GitHub](https://github.com/yuma-mizuno/lean-math-workshop) (👨‍💻 5 · 🔀 27 · 📋 15 - 20% open · ⏱️ 07.03.2026):
-
-      ```
-      git clone https://github.com/yuma-mizuno/lean-math-workshop
-      ```
-
-  </details>
-  <details><summary><b><a href="https://github.com/eric-wieser/lean-matrix-cookbook">The Matrix Cookbook, using Lean's mathlib</a></b> (🥉8 ·  ⭐ 130 · 💤) - The matrix cookbook, proved in the Lean theorem prover. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/eric-wieser/lean-matrix-cookbook) (👨‍💻 3 · 🔀 20 · 📋 4 - 50% open · ⏱️ 16.09.2025):
-
-      ```
-      git clone https://github.com/eric-wieser/lean-matrix-cookbook
-      ```
-
-  </details>
-  <br>
+<br>
 
 ## Packages (Meta)
 
@@ -203,19 +142,6 @@ _Actual Lean 4 code for learning purposes_
 
 _Reusable Lean 4 code for enhancing usability_
 
-<details><summary><b><a href="https://github.com/leanprover-community/ProofWidgets4">ProofWidgets</a></b> (🥇22 ·  ⭐ 220) - Helper toolkit for creating your own Lean 4 UserWidgets. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/leanprover-community/ProofWidgets4) (👨‍💻 22 · 🔀 45 · 📥 1.6M · 📋 31 - 41% open · ⏱️ 15.07.2026):
-
-      ```
-      git clone https://github.com/leanprover-community/ProofWidgets4
-      ```
-
-  </details>
-  <details><summary>Show 1 hidden projects...</summary>
-
-- <b><a href="https://github.com/wellecks/llmstep">llmstep</a></b> (🥉9 · ⭐ 150 · 💀) - llmstep: [L]LM proofstep suggestions in Lean 4. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-</details>
 <br>
 
 ## Packages
@@ -224,34 +150,7 @@ _Reusable Lean 4 code for enhancing usability_
 
 _Reusable Lean 4 code (theorems, etc.)_
 
-<details><summary><b><a href="https://github.com/leanprover-community/aesop">aesop</a></b> (🥇15 ·  ⭐ 380) - Proof search tactic (Automated Extensible Search for Obvious Proofs). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/leanprover-community/aesop) (👨‍💻 32 · 🔀 55 · 📋 87 - 42% open · ⏱️ 15.07.2026):
-
-      ```
-      git clone https://github.com/leanprover-community/aesop
-      ```
-
-  </details>
-  <details><summary><b><a href="https://github.com/lecopivo/SciLean">SciLean</a></b> (🥈14 ·  ⭐ 520) - Scientific computing in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/lecopivo/SciLean) (👨‍💻 10 · 🔀 41 · 📋 47 - 55% open · ⏱️ 18.02.2026):
-
-      ```
-      git clone https://github.com/lecopivo/SciLean
-      ```
-
-  </details>
-  <details><summary><b><a href="https://github.com/ufmg-smite/lean-smt">SMT Lean</a></b> (🥈12 ·  ⭐ 300) - Tactics for discharging Lean goals into SMT solvers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/ufmg-smite/lean-smt) (👨‍💻 12 · 🔀 41 · 📋 35 - 54% open · ⏱️ 14.07.2026):
-
-      ```
-      git clone https://github.com/ufmg-smite/lean-smt
-      ```
-
-  </details>
-  <details><summary><b><a href="https://kpp.kenosian.com/k-lean.html">K-Lean</a></b> (🥉1) - 64 machine-verified contracts for computational biology. sorry-free. Covers.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://kpp.kenosian.com/k-lean.html">K-Lean</a></b> (🥇1) - 64 machine-verified contracts for computational biology. sorry-free. Covers.. <code>❗Unlicensed</code></summary>
 
 - [GitHub]():
 
@@ -260,13 +159,7 @@ _Reusable Lean 4 code (theorems, etc.)_
       ```
 
   </details>
-  <details><summary>Show 3 hidden projects...</summary>
-
-- <b><a href="https://github.com/verified-optimization/CvxLean">CvxLean</a></b> (🥉10 · ⭐ 74 · 💀) - Convex optimization modeling in Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/joehendrix/lean-crypto">lean-crypto</a></b> (🥉8 · ⭐ 53 · 💀) - Cryptographic routines for the Lean 4 language. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/siddhartha-gadgil/Saturn">SATurn</a></b> (🥉6 · ⭐ 64 · 💀) - Experiments with SAT solvers with proofs in Lean 4. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-</details>
-<br>
+  <br>
 
 ## Core packages
 
@@ -274,61 +167,7 @@ _Reusable Lean 4 code (theorems, etc.)_
 
 _Core Lean 4 code_
 
-<details><summary><b><a href="https://github.com/leanprover/lean4">lean4</a></b> (🥇34 ·  ⭐ 8.5K) - Lean 4 repository. Includes `Lake`. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/leanprover/lean4) (👨‍💻 290 · 🔀 890 · 📥 6.6M · 📋 3.2K - 29% open · ⏱️ 16.07.2026):
-
-      ```
-      git clone https://github.com/leanprover/lean4
-      ```
-
-  </details>
-  <details><summary><b><a href="https://github.com/leanprover-community/mathlib4">mathlib4</a></b> (🥈29 ·  ⭐ 3.6K) - Math library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/leanprover-community/mathlib4) (👨‍💻 820 · 🔀 1.4K · 📋 620 - 44% open · ⏱️ 16.07.2026):
-
-      ```
-      git clone https://github.com/leanprover-community/mathlib4
-      ```
-
-  </details>
-  <details><summary><b><a href="https://github.com/leanprover/elan">elan</a></b> (🥈22 ·  ⭐ 570) - Version Manager. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/leanprover/elan) (👨‍💻 31 · 🔀 56 · 📥 3.5M · 📋 99 - 29% open · ⏱️ 16.07.2026):
-
-      ```
-      git clone https://github.com/leanprover/elan
-      ```
-
-  </details>
-  <details><summary><b><a href="https://github.com/leanprover-community/batteries">std4</a></b> (🥉21 ·  ⭐ 410) - Standard Library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/leanprover-community/batteries) (👨‍💻 86 · 🔀 150 · 📥 230 · 📋 83 - 32% open · ⏱️ 16.07.2026):
-
-      ```
-      git clone https://github.com/leanprover/std4
-      ```
-
-  </details>
-  <details><summary><b><a href="https://github.com/leanprover/doc-gen4">doc-gen4</a></b> (🥉15 ·  ⭐ 160) - Document Generator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/leanprover/doc-gen4) (👨‍💻 49 · 🔀 65 · 📋 100 - 28% open · ⏱️ 16.07.2026):
-
-      ```
-      git clone https://github.com/leanprover/doc-gen4
-      ```
-
-  </details>
-  <details><summary><b><a href="https://github.com/leanprover-community/quote4">quote4</a></b> (🥉11 ·  ⭐ 110) - Intuitive, type-safe expression quotations for Lean 4. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/leanprover-community/quote4) (👨‍💻 15 · 🔀 24 · 📋 30 - 60% open · ⏱️ 15.07.2026):
-
-      ```
-      git clone https://github.com/leanprover-community/quote4
-      ```
-
-  </details>
-  <br>
+<br>
 
 ## Games
 
@@ -336,9 +175,9 @@ _Core Lean 4 code_
 
 _Lean 4 Games_
 
-<details><summary><b><a href="https://adam.math.hhu.de/">Lean Game Server</a></b> (🥇16 ·  ⭐ 520) - Mainly for Natural Number Game. Be careful not to.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://adam.math.hhu.de/">Lean Game Server</a></b> (🥇2) - Mainly for Natural Number Game. Be careful not to confuse this.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/leanprover-community/lean4game) (👨‍💻 37 · 🔀 93 · 📋 340 - 34% open · ⏱️ 10.07.2026):
+- [GitHub]() (👨‍💻 37):
 
       ```
       git clone https://github.com/leanprover-community/lean4game
@@ -367,67 +206,18 @@ _Community_
 
 _Tools not made in Lean 4_
 
-<details><summary><b><a href="https://github.com/leanprover/vscode-lean4">vscode-lean4</a></b> (🥇21 ·  ⭐ 300) - Visual Studio Code extension. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://live.lean-lang.org/">lean4web</a></b> (🥇1) - Web editor. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/leanprover/vscode-lean4) (👨‍💻 74 · 🔀 96 · 📥 1.2K · 📋 260 - 19% open · ⏱️ 29.05.2026):
-
-      ```
-      git clone https://github.com/leanprover/vscode-lean4
-      ```
-
-  </details>
-  <details><summary><b><a href="https://github.com/lean-dojo/LeanCopilot">LeanCopilot</a></b> (🥈18 ·  ⭐ 1.3K) - LLMs as Copilots for Theorem Proving in Lean. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/lean-dojo/LeanCopilot) (👨‍💻 14 · 🔀 120 · 📥 5K · 📋 64 - 6% open · ⏱️ 20.06.2026):
-
-      ```
-      git clone https://github.com/lean-dojo/LeanCopilot
-      ```
-
-  </details>
-  <details><summary><b><a href="https://live.lean-lang.org/">lean4web</a></b> (🥈16 ·  ⭐ 140) - Web editor. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/leanprover-community/lean4web) (👨‍💻 19 · 🔀 51 · 📋 70 - 12% open · ⏱️ 27.06.2026):
+- [GitHub]() (👨‍💻 19):
 
       ```
       git clone https://github.com/leanprover-community/lean4web
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/lean-dojo/LeanDojo">LeanDojo</a></b> (🥉15 ·  ⭐ 820) - Tool for data extraction and interacting with Lean programmatically. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+  <details><summary><b><a href="https://reservoir.lean-lang.org/">Reservoir</a></b> (🥇1 · 📉) - Lakes package registry. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/lean-dojo/LeanDojo) (👨‍💻 22 · 🔀 120 · 📋 86 - 6% open · ⏱️ 18.01.2026):
-
-      ```
-      git clone https://github.com/lean-dojo/LeanDojo
-      ```
-
-  </details>
-  <details><summary><b><a href="https://github.com/Paper-Proof/paperproof">Paperproof</a></b> (🥉15 ·  ⭐ 540) - Theorem proving interface which feels like pen-and-paper proofs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/Paper-Proof/paperproof) (👨‍💻 6 · 🔀 17 · 📋 51 - 31% open · ⏱️ 29.06.2026):
-
-      ```
-      git clone https://github.com/Paper-Proof/paperproof
-      ```
-
-  </details>
-  <details><summary><b><a href="https://github.com/Archerkattri/mathlas">mathlas</a></b> (🥉13 ·  ⭐ 7 · 🐣) - MCP server that lets AI agents check proofs with the Lean 4 kernel.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/Archerkattri/mathlas) (🔀 1 · ⏱️ 07.07.2026):
-
-  ```
-  git clone https://github.com/Archerkattri/mathlas
-  ```
-
-- [PyPi](https://pypi.org/project/mathlas-mcp) (📥 680 / month):
-`
-	pip install mathlas-mcp
-	`
-</details>
-<details><summary><b><a href="https://reservoir.lean-lang.org/">Reservoir</a></b> (🥉11 ·  ⭐ 47) - Lakes package registry. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/leanprover/reservoir) (👨‍💻 4 · 🔀 8 · 📋 71 - 25% open · ⏱️ 12.06.2026):
+- [GitHub]() (👨‍💻 4):
 
       ```
       git clone https://github.com/leanprover/reservoir
@@ -440,19 +230,19 @@ _Tools not made in Lean 4_
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://lean-ja.github.io/links/">LEAN JA リンク集</a></b> (🥇5 ·  ⭐ 1) - Japanese translated versions of several tutorials are available... <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>ja</code></summary>
+<details><summary><b><a href="https://lean-lang.org/links/">Links (lean-lang.org)</a></b> (🥇1) - Official collection of links. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/lean-ja/lean-ja.github.io) (👨‍💻 3 · 🔀 1 · ⏱️ 05.06.2026):
+- _No project information available._</details>
+<details><summary><b><a href="https://lean-ja.github.io/links/">LEAN JA リンク集</a></b> (🥇1) - Japanese translated versions of several tutorials are.. <code>❗Unlicensed</code> <code>ja</code></summary>
+
+- [GitHub]() (👨‍💻 3):
 
       ```
       git clone https://github.com/lean-ja/lean-ja.github.io
       ```
 
   </details>
-  <details><summary><b><a href="https://lean-lang.org/links/">Links (lean-lang.org)</a></b> (🥉1) - Official collection of links. <code>❗Unlicensed</code></summary>
-
-- _No project information available._</details>
-<details><summary><b><a href="https://proofassistants.stackexchange.com/questions/2305/where-is-the-syntax-of-lean-4-documented">lean4 - Where is the syntax of Lean 4 documented? - Proof Assistants Stack Exchange</a></b> (🥉1) - Discussion regarding Lean 4 documentation. <code>❗Unlicensed</code></summary>
+  <details><summary><b><a href="https://proofassistants.stackexchange.com/questions/2305/where-is-the-syntax-of-lean-4-documented">lean4 - Where is the syntax of Lean 4 documented? - Proof Assistants Stack Exchange</a></b> (🥇1) - Discussion regarding Lean 4 documentation. <code>❗Unlicensed</code></summary>
 
 - _No project information available._</details>
   <br>
