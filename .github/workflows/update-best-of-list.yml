@@ -16,11 +16,11 @@ jobs:
     steps:
       - name: Set version
         run: echo "VERSION=$(date '+%Y.%m.%d')" >> $GITHUB_ENV
-      - uses: actions/checkout@v6.0.2
-      - uses: astral-sh/setup-uv@v8.1.0
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+      - uses: astral-sh/setup-uv@08807647e7069bb48b6ef5acd8ec9567f424441b # v8.1.0
       - name: Best of list update
         run: uvx best-of generate projects.yaml -g ${{ secrets.GITHUB_TOKEN}}
-      - uses: fregante/setup-git-user@v2
+      - uses: fregante/setup-git-user@024bc0b8e177d7e77203b48dab6fb45666854b35 # v2
       - name: Run prek
         run: uvx prek run -a || uvx prek run -a || true
       - name: Commit changes
@@ -31,7 +31,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Create Release
-        uses: actions/create-release@v1
+        uses: actions/create-release@0cb9c9b65d5d1901c1f53e5e66eaf4afd303e70e # v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
