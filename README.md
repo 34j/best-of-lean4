@@ -109,7 +109,7 @@ _Tutorials with long text_
       ```
 
   </details>
-  <details><summary><b><a href="https://hrmacbeth.github.io/math2001/">The mechanics of proof</a></b> (🥇1 · 📉) - Early university level course. <code>❗Unlicensed</code></summary>
+  <details><summary><b><a href="https://hrmacbeth.github.io/math2001/">The mechanics of proof</a></b> (🥇1) - Early university level course. <code>❗Unlicensed</code></summary>
 
 - [GitHub]():
 
@@ -215,7 +215,7 @@ _Tools not made in Lean 4_
       ```
 
   </details>
-  <details><summary><b><a href="https://reservoir.lean-lang.org/">Reservoir</a></b> (🥇1 · 📉) - Lakes package registry. <code>❗Unlicensed</code></summary>
+  <details><summary><b><a href="https://reservoir.lean-lang.org/">Reservoir</a></b> (🥇1) - Lakes package registry. <code>❗Unlicensed</code></summary>
 
 - [GitHub]() (👨‍💻 4):
 

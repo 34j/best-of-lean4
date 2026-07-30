@@ -1,9 +1,1 @@
-## 📉 Trending Down
-
-_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
-
-- <b><a href="https://reservoir.lean-lang.org/">Reservoir</a></b> (🥇1 · 📉) - Lakes package registry. <code>❗Unlicensed</code>
-- <b><a href="https://hrmacbeth.github.io/math2001/">The mechanics of proof</a></b> (🥇1 · 📉) - Early university level course. <code>❗Unlicensed</code>
-- <b><a href="{}">llmstep</a></b> (📉) - <code>❗Unlicensed</code>
-- <b><a href="{}">CvxLean</a></b> (📉) - <code>❗Unlicensed</code>
-- <b><a href="{}">Lean Math Workshop</a></b> (📉) - Materials for a workshop held in Japan. <code>❗Unlicensed</code> <code>ja</code>
+Nothing changed from last update.
