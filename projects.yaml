@@ -103,6 +103,10 @@ projects:
   - name: CvxLean
     category: package
     github_id: verified-optimization/CvxLean
+  - name: fde-lean
+    category: package
+    github_id: cyborg-garden/fde-lean
+    description: First-degree entailment (Belnap-Dunn four-valued logic) with soundness, completeness, and decidability proved. Proofs written by an AI agent, checked by the Lean kernel.
   # tool
   - name: vscode-lean4
     github_id: leanprover/vscode-lean4
