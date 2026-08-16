@@ -206,7 +206,7 @@ _Community_
 
 _Tools not made in Lean 4_
 
-<details><summary><b><a href="https://live.lean-lang.org/">lean4web</a></b> (🥇1) - Web editor. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://live.lean-lang.org/">lean4web</a></b> (🥈1) - Web editor. <code>❗Unlicensed</code></summary>
 
 - [GitHub]() (👨‍💻 19):
 
@@ -215,7 +215,7 @@ _Tools not made in Lean 4_
       ```
 
   </details>
-  <details><summary><b><a href="https://reservoir.lean-lang.org/">Reservoir</a></b> (🥇1) - Lakes package registry. <code>❗Unlicensed</code></summary>
+  <details><summary><b><a href="https://reservoir.lean-lang.org/">Reservoir</a></b> (🥈1) - Lakes package registry. <code>❗Unlicensed</code></summary>
 
 - [GitHub]() (👨‍💻 4):
 
