@@ -1,11 +1,5 @@
-## 📈 Trending Up
-
-_Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
-
-- <b><a href="{}">mathlas</a></b> (🥇2 · 📈) - MCP server that lets AI agents check proofs with the Lean 4 kernel and.. <code>❗Unlicensed</code>
-
 ## ➕ Added Projects
 
 _Projects that were recently added to this best-of list._
 
-- <b><a href="{}">fde-lean</a></b> (🥉-1 · ➕) - First-degree entailment (Belnap-Dunn four-valued logic) with.. <code>❗Unlicensed</code>
+- <b><a href="{}">LeanFrontier</a></b> (🥉-1 · ➕) - Public Lean 4 library with a reproducible submission receiver. <code>❗Unlicensed</code>
