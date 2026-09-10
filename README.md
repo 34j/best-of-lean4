@@ -61,7 +61,7 @@ _Quick reference with short text_
 
 <details><summary><b><a href="https://leanprover-community.github.io/mathlib4_docs/">(Mathlib4) General Documentation (API Reference)</a></b> (🥈1) - Official Mathlib API Reference. <code>❗Unlicensed</code></summary>
 
-- [GitHub]() (👨‍💻 7):
+- [GitHub]() (👨‍💻 9):
 
       ```
       git clone https://github.com/leanprover-community/mathlib4_docs
@@ -177,7 +177,7 @@ _Lean 4 Games_
 
 <details><summary><b><a href="https://adam.math.hhu.de/">Lean Game Server</a></b> (🥇2) - Mainly for Natural Number Game. Be careful not to confuse this.. <code>❗Unlicensed</code></summary>
 
-- [GitHub]() (👨‍💻 39):
+- [GitHub]() (👨‍💻 40):
 
       ```
       git clone https://github.com/leanprover-community/lean4game
@@ -206,7 +206,7 @@ _Community_
 
 _Tools not made in Lean 4_
 
-<details><summary><b><a href="https://live.lean-lang.org/">lean4web</a></b> (🥇1) - Web editor. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://live.lean-lang.org/">lean4web</a></b> (🥈1) - Web editor. <code>❗Unlicensed</code></summary>
 
 - [GitHub]() (👨‍💻 20):
 
@@ -215,7 +215,7 @@ _Tools not made in Lean 4_
       ```
 
   </details>
-  <details><summary><b><a href="https://reservoir.lean-lang.org/">Reservoir</a></b> (🥇1) - Lakes package registry. <code>❗Unlicensed</code></summary>
+  <details><summary><b><a href="https://reservoir.lean-lang.org/">Reservoir</a></b> (🥈1) - Lakes package registry. <code>❗Unlicensed</code></summary>
 
 - [GitHub]() (👨‍💻 4):
 
