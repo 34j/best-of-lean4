@@ -111,6 +111,10 @@ projects:
     category: package
     github_id: carlok/LeanFrontier
     description: Public Lean 4 library with a reproducible submission receiver.
+  - name: werr
+    category: package
+    github_id: pCwOrM/werr
+    description: Formal verification in Lean 4 Mathlib (ZMod 9) of modular invariant stability for procedural fractal decision engines.
   # tool
   - name: vscode-lean4
     github_id: leanprover/vscode-lean4
