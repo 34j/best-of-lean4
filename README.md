@@ -206,16 +206,16 @@ _Community_
 
 _Tools not made in Lean 4_
 
-<details><summary><b><a href="https://live.lean-lang.org/">lean4web</a></b> (🥇1) - Web editor. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://live.lean-lang.org/">lean4web</a></b> (🥇2 · 📈) - Web editor. <code>❗Unlicensed</code></summary>
 
-- [GitHub]() (👨‍💻 20):
+- [GitHub]() (👨‍💻 21):
 
       ```
       git clone https://github.com/leanprover-community/lean4web
       ```
 
   </details>
-  <details><summary><b><a href="https://reservoir.lean-lang.org/">Reservoir</a></b> (🥇1) - Lakes package registry. <code>❗Unlicensed</code></summary>
+  <details><summary><b><a href="https://reservoir.lean-lang.org/">Reservoir</a></b> (🥈1) - Lakes package registry. <code>❗Unlicensed</code></summary>
 
 - [GitHub]() (👨‍💻 4):
 
