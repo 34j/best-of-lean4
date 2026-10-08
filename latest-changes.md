@@ -1,5 +1,1 @@
-## 📈 Trending Up
-
-_Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
-
-- <b><a href="https://live.lean-lang.org/">lean4web</a></b> (🥇2 · 📈) - Web editor. <code>❗Unlicensed</code>
+Nothing changed from last update.
