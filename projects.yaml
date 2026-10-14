@@ -111,6 +111,11 @@ projects:
     category: package
     github_id: carlok/LeanFrontier
     description: Public Lean 4 library with a reproducible submission receiver.
+  - name: Polyhex-Hull
+    category: package
+    github_id: pragyaangaur/Polyhex-Hull
+    homepage: https://arxiv.org/abs/2609.30310
+    description: Mathlib proof of Kurz's conjecture that the convex hull of a polyhex with n unit-area hexagons has area at most ⌊n² + 14n/3 + 1⌋/6, via the sharper bound ⌈n² + 14n/3⌉/6 (OEIS A399934).
   - name: werr
     category: package
     github_id: pCwOrM/werr
