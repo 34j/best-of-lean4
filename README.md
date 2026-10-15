@@ -177,7 +177,7 @@ _Lean 4 Games_
 
 <details><summary><b><a href="https://adam.math.hhu.de/">Lean Game Server</a></b> (🥇2) - Mainly for Natural Number Game. Be careful not to confuse this.. <code>❗Unlicensed</code></summary>
 
-- [GitHub]() (👨‍💻 42):
+- [GitHub]() (👨‍💻 43):
 
       ```
       git clone https://github.com/leanprover-community/lean4game
