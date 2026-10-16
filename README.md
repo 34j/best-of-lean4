@@ -10,13 +10,13 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-24-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-25-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/34j/best-of-lean4/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/34j/best-of-lean4?color=green&label=updated"></a>
 </p>
 
 <!-- prettier-ignore -->
-This curated list contains 24 awesome open-source projects with a total of 0 stars grouped into 11 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to ~open an [issue](https://github.com/34j/best-of-lean4/issues/new/choose)~, submit a [pull request](https://github.com/34j/best-of-lean4/pulls), or **_directly edit the [projects.yaml](https://github.com/34j/best-of-lean4/edit/main/projects.yaml)_**. Contributions are very welcome!
+This curated list contains 25 awesome open-source projects with a total of 0 stars grouped into 11 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to ~open an [issue](https://github.com/34j/best-of-lean4/issues/new/choose)~, submit a [pull request](https://github.com/34j/best-of-lean4/pulls), or **_directly edit the [projects.yaml](https://github.com/34j/best-of-lean4/edit/main/projects.yaml)_**. Contributions are very welcome!
 
 > 🧙‍♂️ Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -26,7 +26,7 @@ This curated list contains 24 awesome open-source projects with a total of 0 sta
 - [Tutorials](#tutorials) _6 projects_
 - [Samples](#samples) _0 projects_
 - [Packages (Meta)](#packages-meta) _0 projects_
-- [Packages](#packages) _1 projects_
+- [Packages](#packages) _2 projects_
 - [Core packages](#core-packages) _0 projects_
 - [Games](#games) _1 projects_
 - [Community](#community) _2 projects_
@@ -150,7 +150,16 @@ _Reusable Lean 4 code for enhancing usability_
 
 _Reusable Lean 4 code (theorems, etc.)_
 
-<details><summary><b><a href="https://kpp.kenosian.com/k-lean.html">K-Lean</a></b> (🥇1) - 64 machine-verified contracts for computational biology. sorry-free. Covers.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/pragyaangaur/Viscous-Conservation-Laws">Viscous-Conservation-Laws</a></b> (🥇1 · ➕) - Mathlib proofs, with no sorry, of exact drift.. <code>❗Unlicensed</code></summary>
+
+- [GitHub]():
+
+      ```
+      git clone https://github.com/pragyaangaur/Viscous-Conservation-Laws
+      ```
+
+  </details>
+  <details><summary><b><a href="https://kpp.kenosian.com/k-lean.html">K-Lean</a></b> (🥇1) - 64 machine-verified contracts for computational biology. sorry-free. Covers.. <code>❗Unlicensed</code></summary>
 
 - [GitHub]():
 
