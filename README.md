@@ -159,7 +159,7 @@ _Reusable Lean 4 code (theorems, etc.)_
       ```
 
   </details>
-  <details><summary><b><a href="https://arxiv.org/abs/2609.30310">Polyhex-Hull</a></b> (🥇1 · ➕) - Mathlib proof of Kurzs conjecture that the convex hull of a.. <code>❗Unlicensed</code></summary>
+  <details><summary><b><a href="https://arxiv.org/abs/2609.30310">Polyhex-Hull</a></b> (🥇1) - Mathlib proof of Kurzs conjecture that the convex hull of a polyhex.. <code>❗Unlicensed</code></summary>
 
 - [GitHub]():
 
@@ -168,7 +168,7 @@ _Reusable Lean 4 code (theorems, etc.)_
       ```
 
   </details>
-  <details><summary><b><a href="https://pragyaangaur.github.io/Real-Power-Cauchy-Schwarz/">Real-Power-Cauchy-Schwarz</a></b> (🥇1 · ➕) - Mathlib proof of the real-power Cauchy-Schwarz.. <code>❗Unlicensed</code></summary>
+  <details><summary><b><a href="https://pragyaangaur.github.io/Real-Power-Cauchy-Schwarz/">Real-Power-Cauchy-Schwarz</a></b> (🥇1) - Mathlib proof of the real-power Cauchy-Schwarz.. <code>❗Unlicensed</code></summary>
 
 - [GitHub]():
 
