@@ -130,6 +130,11 @@ projects:
     github_id: pragyaangaur/Real-Power-Cauchy-Schwarz
     homepage: https://pragyaangaur.github.io/Real-Power-Cauchy-Schwarz/
     description: Mathlib proof of the real-power Cauchy-Schwarz conjecture of Johnston, Plosker, Torrance and Varona for every real p ≥ 2, with all equality cases and the exact condition for weighted versions.
+  - name: Observer Patch Holography
+    category: package
+    github_id: FloatingPragma/observer-patch-holography
+    homepage: https://github.com/FloatingPragma/observer-patch-holography/tree/main/Lean
+    description: Lean 4 library of Observer Patch Holography, with machine-checked results for an approach to reconstructing physics from observers' records. [Paper](https://philpapers.org/rec/MUEFOC)
   # tool
   - name: vscode-lean4
     github_id: leanprover/vscode-lean4
