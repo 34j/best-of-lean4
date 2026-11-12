@@ -28,7 +28,7 @@ repos:
       - id: end-of-file-fixer
       - id: trailing-whitespace
   - repo: https://github.com/mirrors-prettier/mirrors-prettier
-    rev: v3.8.3
+    rev: v3.8.4
     hooks:
       - id: prettier
         args: ["--tab-width", "2"]
