@@ -107,6 +107,11 @@ projects:
     category: package
     github_id: cyborg-garden/fde-lean
     description: First-degree entailment (Belnap-Dunn four-valued logic) with soundness, completeness, and decidability proved. Proofs written by an AI agent, checked by the Lean kernel.
+  - name: LeanDiracDerivation
+    category: package
+    github_id: gpartin/LeanDiracDerivation
+    homepage: https://doi.org/10.5281/zenodo.24150001
+    description: Machine-checked Lean 4 development of a 15-stage cubical C19 lattice factorization whose stated low-momentum theorem recovers the free Dirac operator, with explicit assumptions and standard-axiom audits.
   - name: Viscous-Conservation-Laws
     category: package
     github_id: pragyaangaur/Viscous-Conservation-Laws
