@@ -88,6 +88,10 @@ projects:
   - name: llmstep
     category: package-meta
     github_id: wellecks/llmstep
+  - name: Kotlean
+    category: package-meta
+    github_id: kbr-/kotlean
+    description: Write Android apps in Lean and prove them; thin Kotlin host
   - name: SciLean
     category: package
     github_id: lecopivo/SciLean
