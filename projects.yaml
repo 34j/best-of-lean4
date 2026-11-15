@@ -107,6 +107,11 @@ projects:
     category: package
     github_id: cyborg-garden/fde-lean
     description: First-degree entailment (Belnap-Dunn four-valued logic) with soundness, completeness, and decidability proved. Proofs written by an AI agent, checked by the Lean kernel.
+  - name: LeanRedShiftDerivation
+    category: package
+    github_id: gpartin/LeanRedShiftDerivation
+    homepage: https://doi.org/10.5281/zenodo.24236840
+    description: Lean 4 formalization of a staged redshift derivation for a declared coupled cubic-lattice model, with explicit theorem boundaries, release verification, and an axiom audit.
   - name: Viscous-Conservation-Laws
     category: package
     github_id: pragyaangaur/Viscous-Conservation-Laws
