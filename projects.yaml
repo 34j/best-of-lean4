@@ -107,6 +107,11 @@ projects:
     category: package
     github_id: cyborg-garden/fde-lean
     description: First-degree entailment (Belnap-Dunn four-valued logic) with soundness, completeness, and decidability proved. Proofs written by an AI agent, checked by the Lean kernel.
+  - name: LeanSchrodingerDerivation
+    category: package
+    github_id: gpartin/LeanSchrodingerDerivation
+    homepage: https://doi.org/10.5281/zenodo.24270168
+    description: Lean 4 formalization of a conditional nonrelativistic Schrödinger handoff from an explicit free-Dirac mass-shell hypothesis, with exact kinetic rationalization, a bounded correction, scoped claim documentation, and release verification.
   - name: Viscous-Conservation-Laws
     category: package
     github_id: pragyaangaur/Viscous-Conservation-Laws
