@@ -1,1 +1,5 @@
-Nothing changed from last update.
+## ➕ Added Projects
+
+_Projects that were recently added to this best-of list._
+
+- <b><a href="https://github.com/FloatingPragma/observer-patch-holography/tree/main/Lean">Observer Patch Holography</a></b> (🥇2 · ➕) - Lean 4 library of Observer Patch Holography, with.. <code>❗Unlicensed</code>
