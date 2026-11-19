@@ -110,6 +110,7 @@ projects:
   - name: LeanDiracDerivation
     category: package
     github_id: gpartin/LeanDiracDerivation
+    license: MIT
     homepage: https://github.com/gpartin/LeanDiracDerivation
     description: Staged Lean 4 proofs of a cubical lattice Dirac factorization and its continuum limit, with explicit assumptions, standard-axiom audits, and a merged LeanPool import.
   - name: Viscous-Conservation-Laws
