@@ -110,8 +110,8 @@ projects:
   - name: LeanDiracDerivation
     category: package
     github_id: gpartin/LeanDiracDerivation
-    homepage: https://doi.org/10.5281/zenodo.24150001
-    description: Machine-checked Lean 4 development of a 15-stage cubical C19 lattice factorization whose stated low-momentum theorem recovers the free Dirac operator, with explicit assumptions and standard-axiom audits.
+    homepage: https://github.com/gpartin/LeanDiracDerivation
+    description: Staged Lean 4 proofs of a cubical lattice Dirac factorization and its continuum limit, with explicit assumptions, standard-axiom audits, and a merged LeanPool import.
   - name: Viscous-Conservation-Laws
     category: package
     github_id: pragyaangaur/Viscous-Conservation-Laws
