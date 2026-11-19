@@ -10,13 +10,13 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-28-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-29-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/34j/best-of-lean4/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/34j/best-of-lean4?color=green&label=updated"></a>
 </p>
 
 <!-- prettier-ignore -->
-This curated list contains 28 awesome open-source projects with a total of 0 stars grouped into 11 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to ~open an [issue](https://github.com/34j/best-of-lean4/issues/new/choose)~, submit a [pull request](https://github.com/34j/best-of-lean4/pulls), or **_directly edit the [projects.yaml](https://github.com/34j/best-of-lean4/edit/main/projects.yaml)_**. Contributions are very welcome!
+This curated list contains 29 awesome open-source projects with a total of 0 stars grouped into 11 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to ~open an [issue](https://github.com/34j/best-of-lean4/issues/new/choose)~, submit a [pull request](https://github.com/34j/best-of-lean4/pulls), or **_directly edit the [projects.yaml](https://github.com/34j/best-of-lean4/edit/main/projects.yaml)_**. Contributions are very welcome!
 
 > 🧙‍♂️ Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -26,7 +26,7 @@ This curated list contains 28 awesome open-source projects with a total of 0 sta
 - [Tutorials](#tutorials) _6 projects_
 - [Samples](#samples) _0 projects_
 - [Packages (Meta)](#packages-meta) _0 projects_
-- [Packages](#packages) _5 projects_
+- [Packages](#packages) _6 projects_
 - [Core packages](#core-packages) _0 projects_
 - [Games](#games) _1 projects_
 - [Community](#community) _2 projects_
@@ -150,7 +150,7 @@ _Reusable Lean 4 code for enhancing usability_
 
 _Reusable Lean 4 code (theorems, etc.)_
 
-<details><summary><b><a href="https://github.com/FloatingPragma/observer-patch-holography/tree/main/Lean">Observer Patch Holography</a></b> (🥇2 · ➕) - Lean 4 library of Observer Patch Holography, with.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/FloatingPragma/observer-patch-holography/tree/main/Lean">Observer Patch Holography</a></b> (🥇2) - Lean 4 library of Observer Patch Holography, with.. <code>❗Unlicensed</code></summary>
 
 - [GitHub]() (👨‍💻 22):
 
@@ -192,6 +192,15 @@ _Reusable Lean 4 code (theorems, etc.)_
 
       ```
       git clone https://github.com/Heime-Jorgen/kenosian-lean4
+      ```
+
+  </details>
+  <details><summary><b><a href="https://github.com/gpartin/LeanDiracDerivation">LeanDiracDerivation</a></b> (➕) - Staged Lean 4 proofs of a cubical lattice Dirac.. <code>❗Unlicensed</code></summary>
+
+- [GitHub]() (👨‍💻 2):
+
+      ```
+      git clone https://github.com/gpartin/LeanDiracDerivation
       ```
 
   </details>
