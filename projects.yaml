@@ -107,6 +107,11 @@ projects:
     category: package
     github_id: cyborg-garden/fde-lean
     description: First-degree entailment (Belnap-Dunn four-valued logic) with soundness, completeness, and decidability proved. Proofs written by an AI agent, checked by the Lean kernel.
+  - name: LeanDiracDerivation
+    category: package
+    github_id: gpartin/LeanDiracDerivation
+    homepage: https://github.com/gpartin/LeanDiracDerivation
+    description: Staged Lean 4 proofs of a cubical lattice Dirac factorization and its continuum limit, with explicit assumptions, standard-axiom audits, and a merged LeanPool import.
   - name: Viscous-Conservation-Laws
     category: package
     github_id: pragyaangaur/Viscous-Conservation-Laws
