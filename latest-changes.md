@@ -1,5 +1,1 @@
-## ➕ Added Projects
-
-_Projects that were recently added to this best-of list._
-
-- <b><a href="https://github.com/gpartin/LeanDiracDerivation">LeanDiracDerivation</a></b> (➕) - Staged Lean 4 proofs of a cubical lattice Dirac.. <code>❗Unlicensed</code>
+Nothing changed from last update.

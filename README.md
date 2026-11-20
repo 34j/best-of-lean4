@@ -195,7 +195,7 @@ _Reusable Lean 4 code (theorems, etc.)_
       ```
 
   </details>
-  <details><summary><b><a href="https://github.com/gpartin/LeanDiracDerivation">LeanDiracDerivation</a></b> (➕) - Staged Lean 4 proofs of a cubical lattice Dirac.. <code>❗Unlicensed</code></summary>
+  <details><summary><b><a href="https://github.com/gpartin/LeanDiracDerivation">LeanDiracDerivation</a></b> - Staged Lean 4 proofs of a cubical lattice Dirac factorization.. <code>❗Unlicensed</code></summary>
 
 - [GitHub]() (👨‍💻 2):
 
