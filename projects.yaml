@@ -140,6 +140,11 @@ projects:
     github_id: FloatingPragma/observer-patch-holography
     homepage: https://github.com/FloatingPragma/observer-patch-holography/tree/main/Lean
     description: Lean 4 library of Observer Patch Holography, with machine-checked results for an approach to reconstructing physics from observers' records. [Paper](https://philpapers.org/rec/MUEFOC)
+  - name: Belay
+    category: package
+    github_id: vihren-dev/belay
+    homepage: https://vihren.dev/belay/
+    description: A semantic model of SQLite in Lean 4, to state and prove facts about SQL schemas, migrations and queries. Finds counterexamples and replays them in the sqlite3 shell.
   # tool
   - name: vscode-lean4
     github_id: leanprover/vscode-lean4
