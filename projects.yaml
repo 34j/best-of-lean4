@@ -110,8 +110,8 @@ projects:
   - name: LeanDiracDerivation
     category: package
     github_id: gpartin/LeanDiracDerivation
-    homepage: https://github.com/gpartin/LeanDiracDerivation
-    description: Staged Lean 4 proofs of a cubical lattice Dirac factorization and its continuum limit, with explicit assumptions, standard-axiom audits, and a merged LeanPool import.
+    homepage: https://github.com/gpartin/LeanDiracDerivation/releases/tag/v2.0.0-research
+    description: Machine-checked Lean 4 derivation of the complete free linearized Dirac equation from a reciprocal two-field C19 lattice action, with an exact native vacuum, two exhaustive rank-four cubical sectors, controlled lattice and timestep remainders, and standard-axiom audits.
   - name: Viscous-Conservation-Laws
     category: package
     github_id: pragyaangaur/Viscous-Conservation-Laws
