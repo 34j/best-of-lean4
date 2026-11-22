@@ -110,7 +110,7 @@ projects:
   - name: LeanDiracDerivation
     category: package
     github_id: gpartin/LeanDiracDerivation
-    homepage: https://github.com/gpartin/LeanDiracDerivation/releases/tag/v2.0.0-research
+    homepage: https://doi.org/10.5281/zenodo.24432641
     description: Machine-checked Lean 4 derivation of the complete free linearized Dirac equation from a reciprocal two-field C19 lattice action, with an exact native vacuum, two exhaustive rank-four cubical sectors, controlled lattice and timestep remainders, and standard-axiom audits.
   - name: Viscous-Conservation-Laws
     category: package
