@@ -152,7 +152,7 @@ _Reusable Lean 4 code (theorems, etc.)_
 
 <details><summary><b><a href="https://github.com/FloatingPragma/observer-patch-holography/tree/main/Lean">Observer Patch Holography</a></b> (🥇2) - Lean 4 library of Observer Patch Holography, with.. <code>❗Unlicensed</code></summary>
 
-- [GitHub]() (👨‍💻 22):
+- [GitHub]() (👨‍💻 23):
 
       ```
       git clone https://github.com/FloatingPragma/observer-patch-holography
@@ -262,7 +262,7 @@ _Tools not made in Lean 4_
   </details>
   <details><summary><b><a href="https://reservoir.lean-lang.org/">Reservoir</a></b> (🥈1) - Lakes package registry. <code>❗Unlicensed</code></summary>
 
-- [GitHub]() (👨‍💻 4):
+- [GitHub]() (👨‍💻 5):
 
       ```
       git clone https://github.com/leanprover/reservoir
