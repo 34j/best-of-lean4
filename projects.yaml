@@ -262,6 +262,11 @@ projects:
     github_id: yuma-mizuno/lean-math-workshop
     description: Materials for a workshop held in Japan.
     labels: [ja]
+  - name: TheoremOS Proof-Reuse Examples
+    category: sample
+    github_id: HuggingMath/TheoremOS
+    homepage: https://github.com/HuggingMath/TheoremOS/blob/61d105500484327dfa85ff69849ab7bd1b2ec69b/docs/PROOF-REUSE.md
+    description: Eight runnable Lean 4 examples that apply results from archived proofs to new problems, with links to the original declarations and local check commands.
   - name: K-Lean
     github_id: Heime-Jorgen/kenosian-lean4
     category: package
