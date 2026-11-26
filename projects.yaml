@@ -125,6 +125,10 @@ projects:
     category: package
     github_id: carlok/LeanFrontier
     description: Public Lean 4 library with a reproducible submission receiver.
+  - name: Zean
+    category: package
+    github_id: okcontract/zean
+    description: Translates supported Zig functions into executable Lean 4 models and proves their behavior, including memory-safety contracts.
   - name: Polyhex-Hull
     category: package
     github_id: pragyaangaur/Polyhex-Hull
