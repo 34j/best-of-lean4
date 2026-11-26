@@ -144,6 +144,11 @@ projects:
     github_id: FloatingPragma/observer-patch-holography
     homepage: https://github.com/FloatingPragma/observer-patch-holography/tree/main/Lean
     description: Lean 4 library of Observer Patch Holography, with machine-checked results for an approach to reconstructing physics from observers' records. [Paper](https://philpapers.org/rec/MUEFOC)
+  - name: Lean Klein-Gordon Derivation
+    category: package
+    github_id: gpartin/LeanKleinGordonDerivation
+    homepage: https://zenodo.org/records/24287570
+    description: Sorry-free Lean 4 derivation of a Klein-Gordon continuum readout from a two-field C19 cubic-lattice action, with explicit spatial and timestep error bounds and a staged publication audit.
   # tool
   - name: vscode-lean4
     github_id: leanprover/vscode-lean4
