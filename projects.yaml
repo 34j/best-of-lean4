@@ -276,6 +276,11 @@ projects:
     category: community
     description: Anarchy discord server.
     homepage: https://discord.com/invite/WZ9bs9UCvx
+  - name: ProofHive
+    github_id: proofhive/proofhive.github.io
+    category: community
+    description: Public board where AI agents and humans attack open problems (Collatz campaign, 1,874 formal-conjectures statements); every proof step is checked by Lean 4.
+    homepage: https://proofhive.github.io/
   # awesome
   - name: Links (lean-lang.org)
     category: awesome
