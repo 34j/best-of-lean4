@@ -267,6 +267,10 @@ projects:
     category: package
     homepage: https://kpp.kenosian.com/k-lean.html
     description: 64 machine-verified contracts for computational biology. sorry-free. Covers Michaelis-Menten, Hill equation, SIR epidemic models, eGFR, mRNA half-life, and more.
+  - name: EcoLib
+    github_id: jdhart81/ecolib
+    category: package
+    description: Lean 4 library of results from conservation and ecology decision models (habitat corridors, restoration, monitoring and change detection), built on Mathlib. 141 modules and 1,889 theorems, each axiom-audited and kernel-replayed. Proofs written by an AI agent and checked by the Lean kernel; none of the results is field-validated.
   # community
   - name: Zulip chat for discussions about Lean and mathlib
     category: community
