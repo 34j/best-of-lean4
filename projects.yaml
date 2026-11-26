@@ -144,6 +144,10 @@ projects:
     github_id: FloatingPragma/observer-patch-holography
     homepage: https://github.com/FloatingPragma/observer-patch-holography/tree/main/Lean
     description: Lean 4 library of Observer Patch Holography, with machine-checked results for an approach to reconstructing physics from observers' records. [Paper](https://philpapers.org/rec/MUEFOC)
+  - name: Solidity Spec
+    category: package
+    github_id: okcontract/solidity-spec
+    description: Executable formal model of Solidity (0.8.36, Cancun EVM), with machine-checked proofs for explicitly defined parts of the model. No sorry and no external Lean dependencies.
   # tool
   - name: vscode-lean4
     github_id: leanprover/vscode-lean4
