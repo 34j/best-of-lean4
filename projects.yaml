@@ -267,6 +267,11 @@ projects:
     category: package
     homepage: https://kpp.kenosian.com/k-lean.html
     description: 64 machine-verified contracts for computational biology. sorry-free. Covers Michaelis-Menten, Hill equation, SIR epidemic models, eGFR, mRNA half-life, and more.
+  - name: Newsatoshi SpendCircuitFull (SHA-256 STARK Circuit Verification)
+    category: sample
+    github_id: theguysaccount/newsatoshi-rfc0021
+    homepage: https://newsatoshi.org/
+    description: Zero-Mathlib, zero-sorry, pure-kernel Lean 4.36 mechanization (8,959 lines) extracting all 249 transition polynomials, 114,688 periodic cells, and 4-mode boundary assertions directly from compiling Rust and proving full AIR <-> ValidSpendWitness equivalence + Goldilocks Pocklington primality (PolyForm-Noncommercial-1.0.0).
   # community
   - name: Zulip chat for discussions about Lean and mathlib
     category: community
