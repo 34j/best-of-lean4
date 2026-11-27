@@ -1,5 +1,5 @@
-## ➕ Added Projects
+## 📉 Trending Down
 
-_Projects that were recently added to this best-of list._
+_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="{}">Kotlean</a></b> (➕) - Write Android apps in Lean and prove them; thin Kotlin host. <code>❗Unlicensed</code>
+- <b><a href="{}">mathlas</a></b> (🥉-1 · 📉) - MCP server that lets AI agents check proofs with the Lean 4 kernel and.. <code>❗Unlicensed</code>
